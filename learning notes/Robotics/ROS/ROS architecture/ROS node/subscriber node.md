@@ -1,7 +1,7 @@
 ---
 tags: ros
 ---
-[[subscriber node]] is the node that will subscribe to the topic published by a [[publisher node]]. There are two ways which based on [[Rospy]]  and [[Roscpp]] APIs for building a subsciber node.
+[[subscriber node]] is the node that will subscribe to the topic published by a [[publisher node]]. There are two ways which based on [[Rospy]]  and [[Roscpp]] APIs for building a subsciber node. [[Roscpp]]
 
 # [[Roscpp]] 
 ```cpp
