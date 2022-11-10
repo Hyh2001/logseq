@@ -4,9 +4,6 @@
  {:block/name "3d scatter plot",
   :block/created-at 1668079049447,
   :block/updated-at 1668079049447}
- {:block/name "@modern robotics: mechanics, planning, and control",
-  :block/created-at 1668082557667,
-  :block/updated-at 1668082557667}
  {:block/name "@save",
   :block/created-at 1668079038417,
   :block/updated-at 1668079038417}
@@ -55,9 +52,6 @@
  {:block/name "[sample point]",
   :block/created-at 1668079043244,
   :block/updated-at 1668079043244}
- {:block/name "[screw joint]",
-  :block/created-at 1668079045339,
-  :block/updated-at 1668079045339}
  {:block/name "[sliding joint",
   :block/created-at 1668079045355,
   :block/updated-at 1668079045355}
@@ -709,7 +703,7 @@
   :block/updated-at 1668079049438}
  {:block/name "helical joint",
   :block/created-at 1668079045399,
-  :block/updated-at 1668079045399}
+  :block/updated-at 1668083661644}
  {:block/name "holonomic constraint",
   :block/created-at 1668079037926,
   :block/updated-at 1668079037926}
@@ -1160,7 +1154,7 @@
   :block/updated-at 1668079043416}
  {:block/name "modern robotics",
   :block/created-at 1668079037583,
-  :block/updated-at 1668082361997}
+  :block/updated-at 1668083602386}
  {:block/name "module类",
   :block/created-at 1668079038150,
   :block/updated-at 1668079038150}
@@ -1870,6 +1864,9 @@
  {:block/name "satisfiability",
   :block/created-at 1668079044892,
   :block/updated-at 1668079044892}
+ {:block/name "screw joint",
+  :block/created-at 1668083661643,
+  :block/updated-at 1668083661643}
  {:block/name "script",
   :block/created-at 1668079046656,
   :block/updated-at 1668079046656}
