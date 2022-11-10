@@ -13,12 +13,12 @@ Options for interacting with the 3D viewport, measuring robot position, setting 
 #### time panel
 Features information about the ROS time and elapsed time
 ### run
-	# need to run roscore first
+# need to run roscore first
 	rosrun rviz rviz
 ### rqt
 features options to visualize 2D data, logging topics, publishing topics, calling services
 #### run 
-	rosrun rqt_gui rqt_gui 
+	rosrun rqt_gui rqt_gui
 #### debugging
 ##### rqt_graph
 creates a dynamic graph of what's going on in the system
