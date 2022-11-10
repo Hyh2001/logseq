@@ -4,6 +4,9 @@
  {:block/name "3d scatter plot",
   :block/created-at 1668079049447,
   :block/updated-at 1668079049447}
+ {:block/name "@modern robotics: mechanics, planning, and control",
+  :block/created-at 1668082557667,
+  :block/updated-at 1668082557667}
  {:block/name "@save",
   :block/created-at 1668079038417,
   :block/updated-at 1668079038417}
