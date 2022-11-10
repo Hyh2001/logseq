@@ -1,11 +1,9 @@
 # definition
 A word used with a noun to describe or point out, the person, animal, place or thing which the noun names, or to tell the number or quantity.(add something for its meaning.)
-
 ### attributively
 used along with the noun  as an epithet or attribute.
 ### predicatively
 used along with the verb is, and forms part of the Predicate
-
 ## types
 ### adjectives of quality 
 show the kind or quality of a person or thing
@@ -23,12 +21,10 @@ First, second, third
 do not denote an exact number
 #### distributive numeral adjectives
 refer to each one of a number
-
 ## formation
 1. formed from [[noun]]s
 2. formed from [[Verb]]s
 3. formed from other adjectives
-
 ## comparison
 ### positive degree
 Adjective in its simple form. It is used to denote the mere existence of some quality of what we speak about. It is used when no comparison is made.
@@ -40,7 +36,6 @@ denotes a higher degree of the quality than the Positive, and is used when two t
 denotes the highest degree of the quality, and is used when more than two things (or sets of things) are compared
 #### superlative of eminence
 there is no idea of comparison, but merely a desire to indicate the possession of a quality in a very high degree
-
 ### formation of comparison
 #### regular
 ##### + er
@@ -64,7 +59,6 @@ Elder and eldest are used only of persons, not of animals or things; and are now
 farther and further are used to express distance. Further, not farther, is used to mean “additional”
 ###### nearest; next
 Nearest means the shortest distance away. Next refers to one of a sequence of things coming one after the other.
-
 ### special comparatives
 #### lost comparative meaning
 Certain English Comparatives have lost their comparative meaning and are used as Positive
@@ -79,10 +73,9 @@ Comparative Adjectives ending in -or are followed by the preposition to
 #### adjectives that do not compare
 ##### list
 square, round, perfect, eternal, universal, unique
-
 ## adjectives used as nouns
 ### used as plural nouns tp denote a class of persons
-The rich 
+The rich
 ### As singular nouns to denote some abstract quality
 the beautiful
 ### actually become nouns
@@ -94,14 +87,12 @@ juniors
 secretes
 #### in certain phrases
 in general
-
 ## place of adjectives
 1. placed immediately before the noun
 2. after the noun 
 3. several Adjectives are attached to one noun they are generally placed after it for emphasis
 4. some word or phrase is joined to the Adjective to explain its meaning, the Adjective is placed after its noun
 5. certain phrases the Adjective always comes after the noun
-
 ## correct use of specific nouns
 ### some, any
 To express quantity or degree some is used normally in affirmative sentences, any in negative or interrogative sentences
