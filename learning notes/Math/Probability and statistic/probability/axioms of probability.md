@@ -1,0 +1,4 @@
+There are three axioms proposed: 
+1. $P(A) \geq 0$
+2. $P(S) =1$
+3. If $A_1,A_2,A_3,...$([[event]]s)form a sequence of pairwise mutually exclusive events in $S$ (that is, $A_i \cap A_j = \varnothing$ if $i \neq j$), then  $P(A_1 \cup A_2 \cup A_3  \cup ...) = \sum^{ \infty}_{i =1}P(A_i)$, and if $P(P(A_1 \cup A_2 \cup A_3  \cup ...)$, Then $A_n$ will form the [[partition]] of $S$ 

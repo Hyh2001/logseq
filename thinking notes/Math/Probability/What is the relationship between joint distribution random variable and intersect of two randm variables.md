@@ -1,0 +1,1 @@
+They are just the same thing with different notations. ([[Jointly discrete random variable]])

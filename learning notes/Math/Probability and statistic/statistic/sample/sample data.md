@@ -1,0 +1,1 @@
+Numbers or measurements that are collected as a result of observations, interviews and so on

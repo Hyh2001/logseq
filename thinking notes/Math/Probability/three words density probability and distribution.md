@@ -1,0 +1,1 @@
+Why they are used in this manner? 

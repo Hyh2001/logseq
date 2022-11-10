@@ -1,0 +1,1 @@
+## Nouns used as adjectives

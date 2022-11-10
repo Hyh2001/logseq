@@ -1,0 +1,1 @@
+A point in a space where taking a very small step can result in a large change in the coordinates. Its existence is because of the different topologies (see [[topology]]). 

@@ -1,0 +1,2559 @@
+[{:block/name "00ff00",
+  :block/created-at 1668079041815,
+  :block/updated-at 1668079041815}
+ {:block/name "3d scatter plot",
+  :block/created-at 1668079049447,
+  :block/updated-at 1668079049447}
+ {:block/name "@save",
+  :block/created-at 1668079038417,
+  :block/updated-at 1668079038417}
+ {:block/name "[adverb]",
+  :block/created-at 1668079040517,
+  :block/updated-at 1668079040517}
+ {:block/name "[axiomatic approach]",
+  :block/created-at 1668079043311,
+  :block/updated-at 1668079043311}
+ {:block/name "[ball-and-socket joint]",
+  :block/created-at 1668079045416,
+  :block/updated-at 1668079045416}
+ {:block/name "[base frame]",
+  :block/created-at 1668079045553,
+  :block/updated-at 1668079045553}
+ {:block/name "[c-space]",
+  :block/created-at 1668079045039,
+  :block/updated-at 1668079045039}
+ {:block/name "[cross-correlation]",
+  :block/created-at 1668079038423,
+  :block/updated-at 1668079038423}
+ {:block/name "[deep learning]",
+  :block/created-at 1668079038006,
+  :block/updated-at 1668079038006}
+ {:block/name "[hinge point]",
+  :block/created-at 1668079045367,
+  :block/updated-at 1668079045367}
+ {:block/name "[if and only if]",
+  :block/created-at 1668079044774,
+  :block/updated-at 1668079044774}
+ {:block/name "[implication]",
+  :block/created-at 1668079044796,
+  :block/updated-at 1668079044796}
+ {:block/name "[matrices]",
+  :block/created-at 1668079043981,
+  :block/updated-at 1668079043981}
+ {:block/name "[mutually exclusive event]",
+  :block/created-at 1668079043165,
+  :block/updated-at 1668079043165}
+ {:block/name "[outlining]",
+  :block/created-at 1668079049478,
+  :block/updated-at 1668079049478}
+ {:block/name "[range]",
+  :block/created-at 1668079041194,
+  :block/updated-at 1668079041194}
+ {:block/name "[sample point]",
+  :block/created-at 1668079043244,
+  :block/updated-at 1668079043244}
+ {:block/name "[screw joint]",
+  :block/created-at 1668079045339,
+  :block/updated-at 1668079045339}
+ {:block/name "[sliding joint",
+  :block/created-at 1668079045355,
+  :block/updated-at 1668079045355}
+ {:block/name "[twist]",
+  :block/created-at 1668079045707,
+  :block/updated-at 1668079045707}
+ {:block/name "[wrench]",
+  :block/created-at 1668079045640,
+  :block/updated-at 1668079045640}
+ {:block/name "[中位数]",
+  :block/created-at 1668079043400,
+  :block/updated-at 1668079043400}
+ {:block/name "[从句]",
+  :block/created-at 1668079039422,
+  :block/updated-at 1668079039422}
+ {:block/name "[众数]",
+  :block/created-at 1668079043415,
+  :block/updated-at 1668079043415}
+ {:block/name "[别名]",
+  :block/created-at 1668079049307,
+  :block/updated-at 1668079049307}
+ {:block/name "[命题]",
+  :block/created-at 1668079044671,
+  :block/updated-at 1668079044671}
+ {:block/name "[填充]",
+  :block/created-at 1668079038456,
+  :block/updated-at 1668079038456}
+ {:block/name "[平均数]",
+  :block/created-at 1668079043387,
+  :block/updated-at 1668079043387}
+ {:block/name "[步幅]",
+  :block/created-at 1668079038493,
+  :block/updated-at 1668079038493}
+ {:block/name "[状态机]",
+  :block/created-at 1668079044464,
+  :block/updated-at 1668079044464}
+ {:block/name "_tablet",
+  :block/created-at 1668082361179,
+  :block/updated-at 1668082361179}
+ {:block/name "a",
+  :block/created-at 1668079623294,
+  :block/updated-at 1668079623294}
+ {:block/name "about marginal density functions",
+  :block/created-at 1668079049648,
+  :block/updated-at 1668079049648}
+ {:block/name "absolute maximum",
+  :block/created-at 1668079041726,
+  :block/updated-at 1668079041726}
+ {:block/name "absolute minimum",
+  :block/created-at 1668079041725,
+  :block/updated-at 1668079041725}
+ {:block/name "abstract noun",
+  :block/created-at 1668079039613,
+  :block/updated-at 1668079039613}
+ {:block/name "actuation",
+  :block/created-at 1668079045477,
+  :block/updated-at 1668079045477}
+ {:block/name "actuator",
+  :block/created-at 1668079045317,
+  :block/updated-at 1668079045317}
+ {:block/name "additive law of probability",
+  :block/created-at 1668079042689,
+  :block/updated-at 1668079042689}
+ {:block/name "adjective",
+  :block/created-at 1668079039513,
+  :block/updated-at 1668079039513}
+ {:block/name "adverbial",
+  :block/created-at 1668079039364,
+  :block/updated-at 1668079039364}
+ {:block/name "alases",
+  :block/created-at 1668079042849,
+  :block/updated-at 1668079042849}
+ {:block/name "aliases",
+  :block/created-at 1668079049308,
+  :block/updated-at 1668079049308}
+ {:block/name "anaconda",
+  :block/created-at 1668079039052,
+  :block/updated-at 1668079039052}
+ {:block/name "and",
+  :block/created-at 1668079044760,
+  :block/updated-at 1668079044760}
+ {:block/name "angular coordinate",
+  :block/created-at 1668079045664,
+  :block/updated-at 1668079045664}
+ {:block/name "angular velocity",
+  :block/created-at 1668079045684,
+  :block/updated-at 1668079045684}
+ {:block/name "antiderivative",
+  :block/created-at 1668079041727,
+  :block/updated-at 1668079041727}
+ {:block/name "application of differentiation",
+  :block/created-at 1668079040685,
+  :block/updated-at 1668079040685}
+ {:block/name "application of eigenvalues and eigenvectors",
+  :block/created-at 1668079043641,
+  :block/updated-at 1668079043641}
+ {:block/name "appositive",
+  :block/created-at 1668079039502,
+  :block/updated-at 1668079039502}
+ {:block/name "area problem",
+  :block/created-at 1668079041662,
+  :block/updated-at 1668079041662}
+ {:block/name "article",
+  :block/created-at 1668079039339,
+  :block/updated-at 1668079039339}
+ {:block/name "assert",
+  :block/created-at 1668079039107,
+  :block/updated-at 1668079039107}
+ {:block/name "asu msr 大纲",
+  :block/created-at 1668079050050,
+  :block/updated-at 1668079050050}
+ {:block/name "asymptote",
+  :block/created-at 1668079041243,
+  :block/updated-at 1668079041243}
+ {:block/name "atlas",
+  :block/created-at 1668079045029,
+  :block/updated-at 1668079045029}
+ {:block/name "attachments",
+  :block/created-at 1668079676504,
+  :block/updated-at 1668079676504}
+ {:block/name "attribute",
+  :block/created-at 1668079039365,
+  :block/updated-at 1668079039365}
+ {:block/name "authors",
+  :block/created-at 1668079675966,
+  :block/updated-at 1668079675966}
+ {:block/name "average value of a function",
+  :block/created-at 1668079041659,
+  :block/updated-at 1668079041659}
+ {:block/name "axiom",
+  :block/created-at 1668079044728,
+  :block/updated-at 1668079044728}
+ {:block/name "axioms of probability",
+  :block/created-at 1668079042686,
+  :block/updated-at 1668079042686}
+ {:block/name "a的顺序不变",
+  :block/created-at 1668079039138,
+  :block/updated-at 1668079039138}
+ {:block/name "b",
+  :block/created-at 1668079623294,
+  :block/updated-at 1668079623294}
+ {:block/name "backlash",
+  :block/created-at 1668079045329,
+  :block/updated-at 1668079045329}
+ {:block/name "basis",
+  :block/created-at 1668079043989,
+  :block/updated-at 1668079043989}
+ {:block/name "batch_size",
+  :block/created-at 1668079038833,
+  :block/updated-at 1668079038833}
+ {:block/name "baye‘s rule",
+  :block/created-at 1668079043104,
+  :block/updated-at 1668079043104}
+ {:block/name "behaviour during fire",
+  :block/created-at 1668079048592,
+  :block/updated-at 1668079048592}
+ {:block/name "beta distribution",
+  :block/created-at 1668079042731,
+  :block/updated-at 1668079042731}
+ {:block/name "binary relations",
+  :block/created-at 1668079044584,
+  :block/updated-at 1668079044584}
+ {:block/name "binomial distribution",
+  :block/created-at 1668079042991,
+  :block/updated-at 1668079042991}
+ {:block/name "body frame",
+  :block/created-at 1668079045529,
+  :block/updated-at 1668079045529}
+ {:block/name "book",
+  :block/created-at 1668079676593,
+  :block/updated-at 1668079676593}
+ {:block/name "bracket notation of vector multiplication",
+  :block/created-at 1668079045675,
+  :block/updated-at 1668079045675}
+ {:block/name "bu me 大纲",
+  :block/created-at 1668079050066,
+  :block/updated-at 1668079050066}
+ {:block/name "build folder",
+  :block/created-at 1668079046723,
+  :block/updated-at 1668079046723}
+ {:block/name "c",
+  :block/created-at 1668079623293,
+  :block/updated-at 1668079623293}
+ {:block/name "c 注释",
+  :block/created-at 1668079038921,
+  :block/updated-at 1668079038921}
+ {:block/name "c++ data",
+  :block/created-at 1668079038888,
+  :block/updated-at 1668079038888}
+ {:block/name "c++ string",
+  :block/created-at 1668079038910,
+  :block/updated-at 1668079038910}
+ {:block/name "calculation laws of continuity",
+  :block/created-at 1668079041092,
+  :block/updated-at 1668079041092}
+ {:block/name "calculus",
+  :block/created-at 1668079040570,
+  :block/updated-at 1668079040570}
+ {:block/name "calculus_mindmap",
+  :block/created-at 1668079041146,
+  :block/updated-at 1668079041146}
+ {:block/name "call-number",
+  :block/created-at 1668079675963,
+  :block/updated-at 1668079675963}
+ {:block/name "camera calibration",
+  :block/created-at 1668079039161,
+  :block/updated-at 1668079039161}
+ {:block/name "canceled",
+  :block/created-at 1668079623294,
+  :block/updated-at 1668079623294}
+ {:block/name "cancelled",
+  :block/created-at 1668079623294,
+  :block/updated-at 1668079623294}
+ {:block/name "card",
+  :block/created-at 1668079623293,
+  :block/updated-at 1668079623293}
+ {:block/name "cartesian product",
+  :block/created-at 1668079045033,
+  :block/updated-at 1668079045033}
+ {:block/name "case analysis",
+  :block/created-at 1668079044645,
+  :block/updated-at 1668079044645}
+ {:block/name "cauchy-riemann equation",
+  :block/created-at 1668079043596,
+  :block/updated-at 1668079043596}
+ {:block/name "change reference frame",
+  :block/created-at 1668079045611,
+  :block/updated-at 1668079045611}
+ {:block/name "classical approach",
+  :block/created-at 1668079043313,
+  :block/updated-at 1668079043313}
+ {:block/name "clause",
+  :block/created-at 1668079039422,
+  :block/updated-at 1668079039422}
+ {:block/name "client node",
+  :block/created-at 1668079046312,
+  :block/updated-at 1668079046312}
+ {:block/name "closed interval method",
+  :block/created-at 1668079041128,
+  :block/updated-at 1668079041128}
+ {:block/name "closed-chain mechanism",
+  :block/created-at 1668079037915,
+  :block/updated-at 1668079037915}
+ {:block/name "cmake",
+  :block/created-at 1668079038933,
+  :block/updated-at 1668079038933}
+ {:block/name "cmakelists",
+  :block/created-at 1668079046580,
+  :block/updated-at 1668079046580}
+ {:block/name "cmakelists.txt",
+  :block/created-at 1668079038932,
+  :block/updated-at 1668079038932}
+ {:block/name "cmakelists/txt",
+  :block/created-at 1668079046579,
+  :block/updated-at 1668079046579}
+ {:block/name "codomain",
+  :block/created-at 1668079041196,
+  :block/updated-at 1668079041196}
+ {:block/name "collective noun",
+  :block/created-at 1668079039619,
+  :block/updated-at 1668079039619}
+ {:block/name "column space",
+  :block/created-at 1668079043866,
+  :block/updated-at 1668079043866}
+ {:block/name "combination",
+  :block/created-at 1668079042635,
+  :block/updated-at 1668079042635}
+ {:block/name "common gender",
+  :block/created-at 1668079039563,
+  :block/updated-at 1668079039563}
+ {:block/name "common noun",
+  :block/created-at 1668079039629,
+  :block/updated-at 1668079039629}
+ {:block/name "complement",
+  :block/created-at 1668079039372,
+  :block/updated-at 1668079039372}
+ {:block/name "complementary event",
+  :block/created-at 1668079043200,
+  :block/updated-at 1668079043200}
+ {:block/name "complex number",
+  :block/created-at 1668079043617,
+  :block/updated-at 1668079043617}
+ {:block/name "complex numbers",
+  :block/created-at 1668079038955,
+  :block/updated-at 1668079038955}
+ {:block/name "complex-transitive verb",
+  :block/created-at 1668079039359,
+  :block/updated-at 1668079039359}
+ {:block/name "composition",
+  :block/created-at 1668079039434,
+  :block/updated-at 1668079039434}
+ {:block/name "compound event",
+  :block/created-at 1668079043197,
+  :block/updated-at 1668079043197}
+ {:block/name "concave downward",
+  :block/created-at 1668079040764,
+  :block/updated-at 1668079040764}
+ {:block/name "concave upward",
+  :block/created-at 1668079040774,
+  :block/updated-at 1668079040774}
+ {:block/name "conditional density function",
+  :block/created-at 1668079043084,
+  :block/updated-at 1668079043084}
+ {:block/name "conditional discrete probability function",
+  :block/created-at 1668079043079,
+  :block/updated-at 1668079043079}
+ {:block/name "conditional distribution",
+  :block/created-at 1668079043033,
+  :block/updated-at 1668079043033}
+ {:block/name "conditional probability",
+  :block/created-at 1668079043021,
+  :block/updated-at 1668079043021}
+ {:block/name "configuration",
+  :block/created-at 1668079045588,
+  :block/updated-at 1668079045588}
+ {:block/name "configuration space",
+  :block/created-at 1668079037927,
+  :block/updated-at 1668079037927}
+ {:block/name "conjunction",
+  :block/created-at 1668079039337,
+  :block/updated-at 1668079039337}
+ {:block/name "conjunctive",
+  :block/created-at 1668079044741,
+  :block/updated-at 1668079044741}
+ {:block/name "contents",
+  :block/created-at 1668079623290,
+  :block/updated-at 1668079623290}
+ {:block/name "continuity",
+  :block/created-at 1668079041253,
+  :block/updated-at 1668079041253}
+ {:block/name "continuous",
+  :block/created-at 1668079040584,
+  :block/updated-at 1668079040584}
+ {:block/name "continuous on an interval",
+  :block/created-at 1668079041513,
+  :block/updated-at 1668079041513}
+ {:block/name "continuous random variable",
+  :block/created-at 1668079043147,
+  :block/updated-at 1668079043147}
+ {:block/name "continuous variable",
+  :block/created-at 1668079039204,
+  :block/updated-at 1668079039204}
+ {:block/name "coordinate chart",
+  :block/created-at 1668079045031,
+  :block/updated-at 1668079045031}
+ {:block/name "corollay",
+  :block/created-at 1668079044679,
+  :block/updated-at 1668079044679}
+ {:block/name "cos(x)",
+  :block/created-at 1668079041450,
+  :block/updated-at 1668079041450}
+ {:block/name "cot(x)",
+  :block/created-at 1668079041460,
+  :block/updated-at 1668079041460}
+ {:block/name "countable noun",
+  :block/created-at 1668079039548,
+  :block/updated-at 1668079039548}
+ {:block/name "counting",
+  :block/created-at 1668079042637,
+  :block/updated-at 1668079042637}
+ {:block/name "covariance",
+  :block/created-at 1668079043076,
+  :block/updated-at 1668079043076}
+ {:block/name "critical number",
+  :block/created-at 1668079041132,
+  :block/updated-at 1668079041132}
+ {:block/name "cross entropy",
+  :block/created-at 1668079038285,
+  :block/updated-at 1668079038285}
+ {:block/name "cumulative distribution function",
+  :block/created-at 1668079042893,
+  :block/updated-at 1668079042893}
+ {:block/name "curve sketching",
+  :block/created-at 1668079040789,
+  :block/updated-at 1668079040789}
+ {:block/name "cv",
+  :block/created-at 1668079050031,
+  :block/updated-at 1668079050031}
+ {:block/name "cylindrical joint",
+  :block/created-at 1668079045400,
+  :block/updated-at 1668079045400}
+ {:block/name "date",
+  :block/created-at 1668079675959,
+  :block/updated-at 1668079675959}
+ {:block/name "day planner learn",
+  :block/created-at 1668079049253,
+  :block/updated-at 1668079049253}
+ {:block/name "deep learning",
+  :block/created-at 1668079037967,
+  :block/updated-at 1668079037967}
+ {:block/name "definite integral",
+  :block/created-at 1668079041678,
+  :block/updated-at 1668079041678}
+ {:block/name "degree of freedom",
+  :block/created-at 1668079037914,
+  :block/updated-at 1668079037914}
+ {:block/name "derivative",
+  :block/created-at 1668079041118,
+  :block/updated-at 1668079041118}
+ {:block/name "derivative and shape of a graph",
+  :block/created-at 1668079040800,
+  :block/updated-at 1668079040800}
+ {:block/name "derivative of inverse function",
+  :block/created-at 1668079041080,
+  :block/updated-at 1668079041080}
+ {:block/name "derivative rules",
+  :block/created-at 1668079041680,
+  :block/updated-at 1668079041680}
+ {:block/name "derivative rules#^7f5f36",
+  :block/created-at 1668079040929,
+  :block/updated-at 1668079040929}
+ {:block/name "determinant",
+  :block/created-at 1668079043672,
+  :block/updated-at 1668079043672}
+ {:block/name "determiners",
+  :block/created-at 1668079039338,
+  :block/updated-at 1668079039338}
+ {:block/name "devel folder",
+  :block/created-at 1668079046731,
+  :block/updated-at 1668079046731}
+ {:block/name "deviation",
+  :block/created-at 1668079043362,
+  :block/updated-at 1668079043362}
+ {:block/name "difference between probability and statistics",
+  :block/created-at 1668079041866,
+  :block/updated-at 1668079041866}
+ {:block/name "differentiable",
+  :block/created-at 1668079041121,
+  :block/updated-at 1668079041121}
+ {:block/name "differential",
+  :block/created-at 1668079041657,
+  :block/updated-at 1668079041657}
+ {:block/name "differential and integration",
+  :block/created-at 1668079041656,
+  :block/updated-at 1668079041656}
+ {:block/name "differential method",
+  :block/created-at 1668079041122,
+  :block/updated-at 1668079041122}
+ {:block/name "direct object",
+  :block/created-at 1668079039358,
+  :block/updated-at 1668079039358}
+ {:block/name "direct substitution property",
+  :block/created-at 1668079041802,
+  :block/updated-at 1668079041802}
+ {:block/name "discontinuous limits",
+  :block/created-at 1668079041817,
+  :block/updated-at 1668079041817}
+ {:block/name "discrete random variable",
+  :block/created-at 1668079043148,
+  :block/updated-at 1668079043148}
+ {:block/name "discrete variable",
+  :block/created-at 1668079039221,
+  :block/updated-at 1668079039221}
+ {:block/name "disjunctive",
+  :block/created-at 1668079044750,
+  :block/updated-at 1668079044750}
+ {:block/name "dispertion",
+  :block/created-at 1668079043371,
+  :block/updated-at 1668079043371}
+ {:block/name "distribution",
+  :block/created-at 1668079043350,
+  :block/updated-at 1668079043350}
+ {:block/name "distribution function",
+  :block/created-at 1668079047389,
+  :block/updated-at 1668079047389}
+ {:block/name "ditransitive verb",
+  :block/created-at 1668079039356,
+  :block/updated-at 1668079039356}
+ {:block/name "division",
+  :block/created-at 1668079043460,
+  :block/updated-at 1668079043460}
+ {:block/name "doing",
+  :block/created-at 1668079623295,
+  :block/updated-at 1668079623295}
+ {:block/name "domain",
+  :block/created-at 1668079041206,
+  :block/updated-at 1668079041206}
+ {:block/name "done",
+  :block/created-at 1668079623293,
+  :block/updated-at 1668079623293}
+ {:block/name "dot product",
+  :block/created-at 1668079044425,
+  :block/updated-at 1668079044425}
+ {:block/name "eddy current sensor",
+  :block/created-at 1668079049976,
+  :block/updated-at 1668079049976}
+ {:block/name "eigenvalues",
+  :block/created-at 1668079043695,
+  :block/updated-at 1668079043695}
+ {:block/name "eigenvectors",
+  :block/created-at 1668079043708,
+  :block/updated-at 1668079043708}
+ {:block/name "element",
+  :block/created-at 1668079043508,
+  :block/updated-at 1668079043508}
+ {:block/name "elimination",
+  :block/created-at 1668079043962,
+  :block/updated-at 1668079043962}
+ {:block/name "end effector",
+  :block/created-at 1668079045475,
+  :block/updated-at 1668079045475}
+ {:block/name "equivalence",
+  :block/created-at 1668079044867,
+  :block/updated-at 1668079044867}
+ {:block/name "error",
+  :block/created-at 1668079043506,
+  :block/updated-at 1668079043506}
+ {:block/name "even function",
+  :block/created-at 1668079041348,
+  :block/updated-at 1668079041348}
+ {:block/name "event",
+  :block/created-at 1668079041864,
+  :block/updated-at 1668079041864}
+ {:block/name "event-composition method",
+  :block/created-at 1668079042692,
+  :block/updated-at 1668079042692}
+ {:block/name "excalibrain",
+  :block/created-at 1668079037941,
+  :block/updated-at 1668079037941}
+ {:block/name "excalibrain_learn",
+  :block/created-at 1668079049264,
+  :block/updated-at 1668079049264}
+ {:block/name "expected value",
+  :block/created-at 1668079043446,
+  :block/updated-at 1668079043446}
+ {:block/name "expected value of joint random variable",
+  :block/created-at 1668079043075,
+  :block/updated-at 1668079043075}
+ {:block/name "experiment",
+  :block/created-at 1668079043293,
+  :block/updated-at 1668079043293}
+ {:block/name "explicit parametrization",
+  :block/created-at 1668079037913,
+  :block/updated-at 1668079037913}
+ {:block/name "exponential coordinate",
+  :block/created-at 1668079045687,
+  :block/updated-at 1668079045687}
+ {:block/name "exponential distribution",
+  :block/created-at 1668079042996,
+  :block/updated-at 1668079042996}
+ {:block/name "exponential distribution and poisson distribution",
+  :block/created-at 1668079042995,
+  :block/updated-at 1668079042995}
+ {:block/name "exponential function",
+  :block/created-at 1668079041383,
+  :block/updated-at 1668079041383}
+ {:block/name "extra",
+  :block/created-at 1668079675961,
+  :block/updated-at 1668079675961}
+ {:block/name "favorites",
+  :block/created-at 1668079623291,
+  :block/updated-at 1668079623291}
+ {:block/name "fbg",
+  :block/created-at 1668079049964,
+  :block/updated-at 1668079049964}
+ {:block/name "feminine gender",
+  :block/created-at 1668079039573,
+  :block/updated-at 1668079039573}
+ {:block/name "fermat's theorem",
+  :block/created-at 1668079041131,
+  :block/updated-at 1668079041131}
+ {:block/name "finite cardinality",
+  :block/created-at 1668079044585,
+  :block/updated-at 1668079044585}
+ {:block/name "finite domain",
+  :block/created-at 1668079044582,
+  :block/updated-at 1668079044582}
+ {:block/name "fire behavior",
+  :block/created-at 1668079048572,
+  :block/updated-at 1668079048572}
+ {:block/name "fire engineering",
+  :block/created-at 1668079048538,
+  :block/updated-at 1668079048538}
+ {:block/name "fire protection engineering",
+  :block/created-at 1668079048546,
+  :block/updated-at 1668079048546}
+ {:block/name "fire safety report",
+  :block/created-at 1668079049058,
+  :block/updated-at 1668079049058}
+ {:block/name "fire safety report#^c7041b",
+  :block/created-at 1668079048659,
+  :block/updated-at 1668079048659}
+ {:block/name "fire scenario analysis",
+  :block/created-at 1668079048607,
+  :block/updated-at 1668079048607}
+ {:block/name "formation",
+  :block/created-at 1668079039514,
+  :block/updated-at 1668079039514}
+ {:block/name "frame",
+  :block/created-at 1668079045616,
+  :block/updated-at 1668079045616}
+ {:block/name "frank c. park",
+  :block/created-at 1668079675956,
+  :block/updated-at 1668079675956}
+ {:block/name "free vector",
+  :block/created-at 1668079045565,
+  :block/updated-at 1668079045565}
+ {:block/name
+  "from model, signal to knowledge  a data-driven perspective of fault detection and diagnosis",
+  :block/created-at 1668079049933,
+  :block/updated-at 1668079049933}
+ {:block/name "function",
+  :block/created-at 1668079041628,
+  :block/updated-at 1668079041628}
+ {:block/name "function composition",
+  :block/created-at 1668079044583,
+  :block/updated-at 1668079044583}
+ {:block/name "function decreasing",
+  :block/created-at 1668079041334,
+  :block/updated-at 1668079041334}
+ {:block/name "function increasing",
+  :block/created-at 1668079041340,
+  :block/updated-at 1668079041340}
+ {:block/name "function_discrete",
+  :block/created-at 1668079044581,
+  :block/updated-at 1668079044581}
+ {:block/name "gain",
+  :block/created-at 1668079046941,
+  :block/updated-at 1668079046941}
+ {:block/name "gamma distribution",
+  :block/created-at 1668079042798,
+  :block/updated-at 1668079042798}
+ {:block/name "gamma distribution and poisson distribution",
+  :block/created-at 1668079042800,
+  :block/updated-at 1668079042800}
+ {:block/name "gamma function",
+  :block/created-at 1668079042815,
+  :block/updated-at 1668079042815}
+ {:block/name "geometric distribution",
+  :block/created-at 1668079042947,
+  :block/updated-at 1668079042947}
+ {:block/name "gpu验证",
+  :block/created-at 1668079038241,
+  :block/updated-at 1668079038241}
+ {:block/name "gram-schmidt",
+  :block/created-at 1668079043722,
+  :block/updated-at 1668079043722}
+ {:block/name "grammar",
+  :block/created-at 1668079039376,
+  :block/updated-at 1668079039376}
+ {:block/name "graph",
+  :block/created-at 1668079044443,
+  :block/updated-at 1668079044443}
+ {:block/name "grubler's formula",
+  :block/created-at 1668079045141,
+  :block/updated-at 1668079045141}
+ {:block/name "heatmap",
+  :block/created-at 1668079049438,
+  :block/updated-at 1668079049438}
+ {:block/name "helical joint",
+  :block/created-at 1668079045399,
+  :block/updated-at 1668079045399}
+ {:block/name "holonomic constraint",
+  :block/created-at 1668079037926,
+  :block/updated-at 1668079037926}
+ {:block/name "homogeneous transform",
+  :block/created-at 1668079039176,
+  :block/updated-at 1668079039176}
+ {:block/name "huber's robust loss",
+  :block/created-at 1668079038286,
+  :block/updated-at 1668079038286}
+ {:block/name "hyperbolic function",
+  :block/created-at 1668079041394,
+  :block/updated-at 1668079041394}
+ {:block/name "hypergeometric distribution",
+  :block/created-at 1668079042955,
+  :block/updated-at 1668079042955}
+ {:block/name "identity matrix",
+  :block/created-at 1668079044359,
+  :block/updated-at 1668079044359}
+ {:block/name "ieee transactions on industrial electronics",
+  :block/created-at 1668079049466,
+  :block/updated-at 1668079049466}
+ {:block/name "iff",
+  :block/created-at 1668079044775,
+  :block/updated-at 1668079044775}
+ {:block/name "ignition mode",
+  :block/created-at 1668079048582,
+  :block/updated-at 1668079048582}
+ {:block/name "image",
+  :block/created-at 1668079044582,
+  :block/updated-at 1668079044582}
+ {:block/name "implicit differentiation",
+  :block/created-at 1668079040971,
+  :block/updated-at 1668079040971}
+ {:block/name "implicit representation",
+  :block/created-at 1668079037915,
+  :block/updated-at 1668079037915}
+ {:block/name "implies",
+  :block/created-at 1668079044797,
+  :block/updated-at 1668079044797}
+ {:block/name "in-progress",
+  :block/created-at 1668079623294,
+  :block/updated-at 1668079623294}
+ {:block/name "include",
+  :block/created-at 1668079046537,
+  :block/updated-at 1668079046537}
+ {:block/name "include folder",
+  :block/created-at 1668079046621,
+  :block/updated-at 1668079046621}
+ {:block/name "include<string.h>",
+  :block/created-at 1668079038907,
+  :block/updated-at 1668079038907}
+ {:block/name "include<string>",
+  :block/created-at 1668079038908,
+  :block/updated-at 1668079038908}
+ {:block/name "indefinite integral",
+  :block/created-at 1668079041638,
+  :block/updated-at 1668079041638}
+ {:block/name "independent event",
+  :block/created-at 1668079043222,
+  :block/updated-at 1668079043222}
+ {:block/name "independent joint random variable",
+  :block/created-at 1668079043077,
+  :block/updated-at 1668079043077}
+ {:block/name "indeterminate form",
+  :block/created-at 1668079041136,
+  :block/updated-at 1668079041136}
+ {:block/name "indirect dependency",
+  :block/created-at 1668079046610,
+  :block/updated-at 1668079046610}
+ {:block/name "indirect object",
+  :block/created-at 1668079039359,
+  :block/updated-at 1668079039359}
+ {:block/name "induction",
+  :block/created-at 1668079044714,
+  :block/updated-at 1668079044714}
+ {:block/name "infinite discontinuity",
+  :block/created-at 1668079041275,
+  :block/updated-at 1668079041275}
+ {:block/name "infinite limit",
+  :block/created-at 1668079041739,
+  :block/updated-at 1668079041739}
+ {:block/name "inflection point",
+  :block/created-at 1668079040809,
+  :block/updated-at 1668079040809}
+ {:block/name "insiprations",
+  :block/created-at 1668079049910,
+  :block/updated-at 1668079049910}
+ {:block/name "install folder",
+  :block/created-at 1668079046709,
+  :block/updated-at 1668079046709}
+ {:block/name "integrable",
+  :block/created-at 1668079041602,
+  :block/updated-at 1668079041602}
+ {:block/name "integrable constraint",
+  :block/created-at 1668079037923,
+  :block/updated-at 1668079037923}
+ {:block/name "integral",
+  :block/created-at 1668079041680,
+  :block/updated-at 1668079041680}
+ {:block/name "integration",
+  :block/created-at 1668079041669,
+  :block/updated-at 1668079041669}
+ {:block/name "integration by parts",
+  :block/created-at 1668079041682,
+  :block/updated-at 1668079041682}
+ {:block/name "integration#^000558",
+  :block/created-at 1668079041550,
+  :block/updated-at 1668079041550}
+ {:block/name "interjection",
+  :block/created-at 1668079039339,
+  :block/updated-at 1668079039339}
+ {:block/name "intermediate value theorem",
+  :block/created-at 1668079041310,
+  :block/updated-at 1668079041310}
+ {:block/name "intransitive verb",
+  :block/created-at 1668079039351,
+  :block/updated-at 1668079039351}
+ {:block/name "inverse function",
+  :block/created-at 1668079041500,
+  :block/updated-at 1668079041500}
+ {:block/name "inverse matrix",
+  :block/created-at 1668079044389,
+  :block/updated-at 1668079044389}
+ {:block/name "isbn",
+  :block/created-at 1668079675962,
+  :block/updated-at 1668079675962}
+ {:block/name "item-type",
+  :block/created-at 1668079675962,
+  :block/updated-at 1668079675962}
+ {:block/name "i符合的公式",
+  :block/created-at 1668079039141,
+  :block/updated-at 1668079039141}
+ {:block/name "jhu me 大纲",
+  :block/created-at 1668079050080,
+  :block/updated-at 1668079050080}
+ {:block/name "joint",
+  :block/created-at 1668079045476,
+  :block/updated-at 1668079045476}
+ {:block/name "joint cumulative distribution function",
+  :block/created-at 1668079043087,
+  :block/updated-at 1668079043087}
+ {:block/name "joint density function",
+  :block/created-at 1668079043086,
+  :block/updated-at 1668079043086}
+ {:block/name "joint distribution random variable",
+  :block/created-at 1668079043089,
+  :block/updated-at 1668079043089}
+ {:block/name "joint probability function",
+  :block/created-at 1668079043081,
+  :block/updated-at 1668079043081}
+ {:block/name "jointly discrete random variable",
+  :block/created-at 1668079043037,
+  :block/updated-at 1668079043037}
+ {:block/name "jump discontinuity",
+  :block/created-at 1668079041283,
+  :block/updated-at 1668079041283}
+ {:block/name "k-则交叉验证",
+  :block/created-at 1668079038029,
+  :block/updated-at 1668079038029}
+ {:block/name "kalman filter",
+  :block/created-at 1668079046944,
+  :block/updated-at 1668079046944}
+ {:block/name "kevin m. lynch",
+  :block/created-at 1668079675955,
+  :block/updated-at 1668079675955}
+ {:block/name "kinetic theory",
+  :block/created-at 1668079048527,
+  :block/updated-at 1668079048527}
+ {:block/name "kth ece 大纲",
+  :block/created-at 1668079050094,
+  :block/updated-at 1668079050094}
+ {:block/name "l'hospital's rule",
+  :block/created-at 1668079041137,
+  :block/updated-at 1668079041137}
+ {:block/name "l1 loss",
+  :block/created-at 1668079038287,
+  :block/updated-at 1668079038287}
+ {:block/name "l2 loss",
+  :block/created-at 1668079038288,
+  :block/updated-at 1668079038288}
+ {:block/name "l2范数",
+  :block/created-at 1668079038175,
+  :block/updated-at 1668079038175}
+ {:block/name "language",
+  :block/created-at 1668079675964,
+  :block/updated-at 1668079675964}
+ {:block/name "later",
+  :block/created-at 1668079623294,
+  :block/updated-at 1668079623294}
+ {:block/name "latex",
+  :block/created-at 1668079049335,
+  :block/updated-at 1668079049335}
+ {:block/name "latex calculus",
+  :block/created-at 1668079049352,
+  :block/updated-at 1668079049352}
+ {:block/name "latex math basics",
+  :block/created-at 1668079049366,
+  :block/updated-at 1668079049366}
+ {:block/name "latex matrix",
+  :block/created-at 1668079038953,
+  :block/updated-at 1668079038953}
+ {:block/name "latex set",
+  :block/created-at 1668079049395,
+  :block/updated-at 1668079049395}
+ {:block/name "latex_physics",
+  :block/created-at 1668079049376,
+  :block/updated-at 1668079049376}
+ {:block/name "latex_vector",
+  :block/created-at 1668079049402,
+  :block/updated-at 1668079049402}
+ {:block/name "learning notes",
+  :block/created-at 1668079038766,
+  :block/updated-at 1668079038766}
+ {:block/name "learning notes/computer science",
+  :block/created-at 1668079038767,
+  :block/updated-at 1668079038767}
+ {:block/name "learning notes/computer science/machine learning",
+  :block/created-at 1668079038767,
+  :block/updated-at 1668079038767}
+ {:block/name
+  "learning notes/computer science/machine learning/deep learning",
+  :block/created-at 1668079038768,
+  :block/updated-at 1668079038768}
+ {:block/name
+  "learning notes/computer science/machine learning/deep learning/深度学习模型",
+  :block/created-at 1668079038769,
+  :block/updated-at 1668079038769}
+ {:block/name
+  "learning notes/computer science/machine learning/deep learning/深度学习模型/模型评估与选择",
+  :block/created-at 1668079038771,
+  :block/updated-at 1668079038771}
+ {:block/name
+  "learning notes/computer science/machine learning/deep learning/深度学习模型/模型评估与选择/评估标准",
+  :block/created-at 1668079038774,
+  :block/updated-at 1668079038774}
+ {:block/name
+  "learning notes/computer science/machine learning/deep learning/深度学习模型/模型评估与选择/评估标准/误差",
+  :block/created-at 1668079038776,
+  :block/updated-at 1668079038776}
+ {:block/name
+  "learning notes/computer science/machine learning/deep learning/深度学习模型/模型评估与选择/评估标准/误差/泛化误差",
+  :block/created-at 1668079038765,
+  :block/updated-at 1668079038765}
+ {:block/name "learning notes/math",
+  :block/created-at 1668079037930,
+  :block/updated-at 1668079037930}
+ {:block/name "learning notes/math/calculus",
+  :block/created-at 1668079037932,
+  :block/updated-at 1668079037932}
+ {:block/name "learning notes/math/calculus/differentiation",
+  :block/created-at 1668079037933,
+  :block/updated-at 1668079037933}
+ {:block/name
+  "learning notes/math/calculus/differentiation/derivative",
+  :block/created-at 1668079037935,
+  :block/updated-at 1668079037935}
+ {:block/name
+  "learning notes/math/calculus/differentiation/derivative/implicit differentiation.md",
+  :block/created-at 1668079037912,
+  :block/updated-at 1668079037912}
+ {:block/name "learning notes/math/calculus/function",
+  :block/created-at 1668079041497,
+  :block/updated-at 1668079041497}
+ {:block/name
+  "learning notes/math/calculus/function/types of functions",
+  :block/created-at 1668079041498,
+  :block/updated-at 1668079041498}
+ {:block/name
+  "learning notes/math/calculus/function/types of functions/exponential function",
+  :block/created-at 1668079041494,
+  :block/updated-at 1668079041494}
+ {:block/name "learning notes/math/calculus/integral",
+  :block/created-at 1668079037939,
+  :block/updated-at 1668079037939}
+ {:block/name "learning notes/math/calculus/integral/integrable.md",
+  :block/created-at 1668079037925,
+  :block/updated-at 1668079037925}
+ {:block/name "learning notes/robotics",
+  :block/created-at 1668079045090,
+  :block/updated-at 1668079045090}
+ {:block/name "learning notes/robotics/modern robotics",
+  :block/created-at 1668079045091,
+  :block/updated-at 1668079045091}
+ {:block/name
+  "learning notes/robotics/modern robotics/rigid-body motions",
+  :block/created-at 1668079045091,
+  :block/updated-at 1668079045091}
+ {:block/name
+  "learning notes/robotics/modern robotics/rigid-body motions/exponential coordinate",
+  :block/created-at 1668079045088,
+  :block/updated-at 1668079045088}
+ {:block/name "learning sequence",
+  :block/created-at 1668079045297,
+  :block/updated-at 1668079045297}
+ {:block/name "left continuity",
+  :block/created-at 1668079041319,
+  :block/updated-at 1668079041319}
+ {:block/name "left hand limit",
+  :block/created-at 1668079041747,
+  :block/updated-at 1668079041747}
+ {:block/name "left nullspace",
+  :block/created-at 1668079043867,
+  :block/updated-at 1668079043867}
+ {:block/name "legged robot",
+  :block/created-at 1668079046965,
+  :block/updated-at 1668079046965}
+ {:block/name "lemma",
+  :block/created-at 1668079044686,
+  :block/updated-at 1668079044686}
+ {:block/name "library-catalog",
+  :block/created-at 1668079675966,
+  :block/updated-at 1668079675966}
+ {:block/name "lie algebra",
+  :block/created-at 1668079045695,
+  :block/updated-at 1668079045695}
+ {:block/name "limit",
+  :block/created-at 1668079041785,
+  :block/updated-at 1668079041785}
+ {:block/name "limit at infinity",
+  :block/created-at 1668079041761,
+  :block/updated-at 1668079041761}
+ {:block/name "limit calculation law",
+  :block/created-at 1668079041774,
+  :block/updated-at 1668079041774}
+ {:block/name "linear algebra",
+  :block/created-at 1668079043906,
+  :block/updated-at 1668079043906}
+ {:block/name "linear approximation",
+  :block/created-at 1668079041138,
+  :block/updated-at 1668079041138}
+ {:block/name "linear combinations",
+  :block/created-at 1668079043917,
+  :block/updated-at 1668079043917}
+ {:block/name "linear dependence",
+  :block/created-at 1668079043777,
+  :block/updated-at 1668079043777}
+ {:block/name "linear equations",
+  :block/created-at 1668079043926,
+  :block/updated-at 1668079043926}
+ {:block/name "linear independence",
+  :block/created-at 1668079043787,
+  :block/updated-at 1668079043787}
+ {:block/name "linear joint]",
+  :block/created-at 1668079045355,
+  :block/updated-at 1668079045355}
+ {:block/name "link",
+  :block/created-at 1668079045477,
+  :block/updated-at 1668079045477}
+ {:block/name "linking verb",
+  :block/created-at 1668079039362,
+  :block/updated-at 1668079039362}
+ {:block/name "links",
+  :block/created-at 1668079675967,
+  :block/updated-at 1668079675967}
+ {:block/name "linux basics",
+  :block/created-at 1668079039237,
+  :block/updated-at 1668079039237}
+ {:block/name "list",
+  :block/created-at 1668079039142,
+  :block/updated-at 1668079039142}
+ {:block/name "listing active nodes",
+  :block/created-at 1668079046246,
+  :block/updated-at 1668079046246}
+ {:block/name "local maximum",
+  :block/created-at 1668079041129,
+  :block/updated-at 1668079041129}
+ {:block/name "local minimum",
+  :block/created-at 1668079041129,
+  :block/updated-at 1668079041129}
+ {:block/name "logarithmic function",
+  :block/created-at 1668079041498,
+  :block/updated-at 1668079041498}
+ {:block/name "logical deduction",
+  :block/created-at 1668079044731,
+  :block/updated-at 1668079044731}
+ {:block/name "logical formular",
+  :block/created-at 1668079044843,
+  :block/updated-at 1668079044843}
+ {:block/name "loop-closure equation",
+  :block/created-at 1668079037928,
+  :block/updated-at 1668079037928}
+ {:block/name "machine learning",
+  :block/created-at 1668079044427,
+  :block/updated-at 1668079044427}
+ {:block/name "magnetic sensor",
+  :block/created-at 1668079046996,
+  :block/updated-at 1668079046996}
+ {:block/name "mapping",
+  :block/created-at 1668079041181,
+  :block/updated-at 1668079041181}
+ {:block/name "marginal density function",
+  :block/created-at 1668079043085,
+  :block/updated-at 1668079043085}
+ {:block/name "marginal distribution",
+  :block/created-at 1668079043105,
+  :block/updated-at 1668079043105}
+ {:block/name "marginal probability function",
+  :block/created-at 1668079043080,
+  :block/updated-at 1668079043080}
+ {:block/name
+  "marginal probability function and discrete random variable",
+  :block/created-at 1668079049625,
+  :block/updated-at 1668079049625}
+ {:block/name "markdown basis",
+  :block/created-at 1668079049274,
+  :block/updated-at 1668079049274}
+ {:block/name "masculine gender",
+  :block/created-at 1668079039580,
+  :block/updated-at 1668079039580}
+ {:block/name "matlab basics",
+  :block/created-at 1668079039004,
+  :block/updated-at 1668079039004}
+ {:block/name "matlab matrices and operators",
+  :block/created-at 1668079038956,
+  :block/updated-at 1668079038956}
+ {:block/name "matlab naming rules",
+  :block/created-at 1668079039002,
+  :block/updated-at 1668079039002}
+ {:block/name "matrix",
+  :block/created-at 1668079043981,
+  :block/updated-at 1668079043981}
+ {:block/name "mdnotes default template",
+  :block/created-at 1668079049604,
+  :block/updated-at 1668079049604}
+ {:block/name "mean",
+  :block/created-at 1668079043443,
+  :block/updated-at 1668079043443}
+ {:block/name "mean value theorem",
+  :block/created-at 1668079041134,
+  :block/updated-at 1668079041134}
+ {:block/name "mean value theorem of integration",
+  :block/created-at 1668079041531,
+  :block/updated-at 1668079041531}
+ {:block/name "mechanism",
+  :block/created-at 1668079045478,
+  :block/updated-at 1668079045478}
+ {:block/name "median",
+  :block/created-at 1668079043401,
+  :block/updated-at 1668079043401}
+ {:block/name "metal-based sensor",
+  :block/created-at 1668079047002,
+  :block/updated-at 1668079047002}
+ {:block/name "modal verb",
+  :block/created-at 1668079040386,
+  :block/updated-at 1668079040386}
+ {:block/name "mode",
+  :block/created-at 1668079043416,
+  :block/updated-at 1668079043416}
+ {:block/name "modern robotics",
+  :block/created-at 1668079037583,
+  :block/updated-at 1668082361997}
+ {:block/name "module类",
+  :block/created-at 1668079038150,
+  :block/updated-at 1668079038150}
+ {:block/name "monotransitive verb",
+  :block/created-at 1668079039354,
+  :block/updated-at 1668079039354}
+ {:block/name "msg file",
+  :block/created-at 1668079046210,
+  :block/updated-at 1668079046210}
+ {:block/name "msg folder",
+  :block/created-at 1668079046603,
+  :block/updated-at 1668079046603}
+ {:block/name "multiplicative law of probability",
+  :block/created-at 1668079042688,
+  :block/updated-at 1668079042688}
+ {:block/name "n-degree approximation",
+  :block/created-at 1668079041141,
+  :block/updated-at 1668079041141}
+ {:block/name "nadrray",
+  :block/created-at 1668079039036,
+  :block/updated-at 1668079039036}
+ {:block/name "neuter gender",
+  :block/created-at 1668079039589,
+  :block/updated-at 1668079039589}
+ {:block/name "newton's method",
+  :block/created-at 1668079041140,
+  :block/updated-at 1668079041140}
+ {:block/name "nominative noun",
+  :block/created-at 1668079039598,
+  :block/updated-at 1668079039598}
+ {:block/name "nonholonomic constraint",
+  :block/created-at 1668079037922,
+  :block/updated-at 1668079037922}
+ {:block/name "nonpredicate verb",
+  :block/created-at 1668079039330,
+  :block/updated-at 1668079039330}
+ {:block/name "normal distribution",
+  :block/created-at 1668079042881,
+  :block/updated-at 1668079042881}
+ {:block/name "normal distribution and binomial distribution",
+  :block/created-at 1668079042864,
+  :block/updated-at 1668079042864}
+ {:block/name "not",
+  :block/created-at 1668079044804,
+  :block/updated-at 1668079044804}
+ {:block/name "note",
+  :block/created-at 1668079038634,
+  :block/updated-at 1668079038634}
+ {:block/name "note/learn by myself",
+  :block/created-at 1668079038635,
+  :block/updated-at 1668079038635}
+ {:block/name "note/learn by myself/computer science",
+  :block/created-at 1668079038636,
+  :block/updated-at 1668079038636}
+ {:block/name "note/learn by myself/computer science/machine learning",
+  :block/created-at 1668079038638,
+  :block/updated-at 1668079038638}
+ {:block/name
+  "note/learn by myself/computer science/machine learning/deep learning",
+  :block/created-at 1668079038640,
+  :block/updated-at 1668079038640}
+ {:block/name
+  "note/learn by myself/computer science/machine learning/deep learning/深度学习模型",
+  :block/created-at 1668079038641,
+  :block/updated-at 1668079038641}
+ {:block/name
+  "note/learn by myself/computer science/machine learning/deep learning/深度学习模型/模型类型",
+  :block/created-at 1668079038642,
+  :block/updated-at 1668079038642}
+ {:block/name
+  "note/learn by myself/computer science/machine learning/deep learning/深度学习模型/模型类型/线性模型",
+  :block/created-at 1668079038643,
+  :block/updated-at 1668079038643}
+ {:block/name
+  "note/learn by myself/computer science/machine learning/deep learning/深度学习模型/模型类型/线性模型/线性回归",
+  :block/created-at 1668079038644,
+  :block/updated-at 1668079038644}
+ {:block/name
+  "note/learn by myself/computer science/machine learning/deep learning/深度学习模型/模型类型/线性模型/线性回归/训练数据集",
+  :block/created-at 1668079038633,
+  :block/updated-at 1668079038633}
+ {:block/name "noun",
+  :block/created-at 1668079039520,
+  :block/updated-at 1668079039520}
+ {:block/name "noun used as adjectives",
+  :block/created-at 1668079039326,
+  :block/updated-at 1668079039326}
+ {:block/name "nouns used as adjectives",
+  :block/created-at 1668079039492,
+  :block/updated-at 1668079039492}
+ {:block/name "nov 10th, 2022",
+  :block/created-at 1668079037450,
+  :block/updated-at 1668080466431}
+ {:block/name "now",
+  :block/created-at 1668079623293,
+  :block/updated-at 1668079623293}
+ {:block/name "np.int32",
+  :block/created-at 1668079039033,
+  :block/updated-at 1668079039033}
+ {:block/name "nullspace",
+  :block/created-at 1668079043868,
+  :block/updated-at 1668079043868}
+ {:block/name "num-pages",
+  :block/created-at 1668079675968,
+  :block/updated-at 1668079675968}
+ {:block/name "number theory",
+  :block/created-at 1668079044453,
+  :block/updated-at 1668079044453}
+ {:block/name "numeral",
+  :block/created-at 1668079039342,
+  :block/updated-at 1668079039342}
+ {:block/name "nwu msr 大纲",
+  :block/created-at 1668079050106,
+  :block/updated-at 1668079050106}
+ {:block/name "object",
+  :block/created-at 1668079039371,
+  :block/updated-at 1668079039371}
+ {:block/name "objective noun",
+  :block/created-at 1668079039605,
+  :block/updated-at 1668079039605}
+ {:block/name "obsidian basis",
+  :block/created-at 1668079049287,
+  :block/updated-at 1668079049287}
+ {:block/name "odd function",
+  :block/created-at 1668079041355,
+  :block/updated-at 1668079041355}
+ {:block/name "ohio su me 大纲",
+  :block/created-at 1668079050120,
+  :block/updated-at 1668079050120}
+ {:block/name "open-chain mechanism",
+  :block/created-at 1668079045489,
+  :block/updated-at 1668079045489}
+ {:block/name "optical fiber sensor",
+  :block/created-at 1668079049983,
+  :block/updated-at 1668079049983}
+ {:block/name "optimization problem",
+  :block/created-at 1668079041133,
+  :block/updated-at 1668079041133}
+ {:block/name "or",
+  :block/created-at 1668079044813,
+  :block/updated-at 1668079044813}
+ {:block/name "orb特征",
+  :block/created-at 1668079046883,
+  :block/updated-at 1668079046883}
+ {:block/name "oregon su 大纲",
+  :block/created-at 1668079050131,
+  :block/updated-at 1668079050131}
+ {:block/name "origin basics",
+  :block/created-at 1668079049424,
+  :block/updated-at 1668079049424}
+ {:block/name "original-title",
+  :block/created-at 1668079675964,
+  :block/updated-at 1668079675964}
+ {:block/name "orthogonal",
+  :block/created-at 1668079043744,
+  :block/updated-at 1668079043744}
+ {:block/name "orthogonal basis",
+  :block/created-at 1668079043796,
+  :block/updated-at 1668079043796}
+ {:block/name "orthogonal matrix",
+  :block/created-at 1668079044369,
+  :block/updated-at 1668079044369}
+ {:block/name "orthonormal vectors",
+  :block/created-at 1668079043795,
+  :block/updated-at 1668079043795}
+ {:block/name "other discontinuity",
+  :block/created-at 1668079041291,
+  :block/updated-at 1668079041291}
+ {:block/name "overlay of working space",
+  :block/created-at 1668079046769,
+  :block/updated-at 1668079046769}
+ {:block/name "package",
+  :block/created-at 1668079046644,
+  :block/updated-at 1668079046644}
+ {:block/name "package.xml",
+  :block/created-at 1668079046610,
+  :block/updated-at 1668079046610}
+ {:block/name "package/xml",
+  :block/created-at 1668079046643,
+  :block/updated-at 1668079046643}
+ {:block/name "padding",
+  :block/created-at 1668079038457,
+  :block/updated-at 1668079038457}
+ {:block/name "padding|填充",
+  :block/created-at 1668079038474,
+  :block/updated-at 1668079038474}
+ {:block/name "paper  drawing",
+  :block/created-at 1668079049898,
+  :block/updated-at 1668079049898}
+ {:block/name "paper structure",
+  :block/created-at 1668079050001,
+  :block/updated-at 1668079050001}
+ {:block/name "parameter",
+  :block/created-at 1668079043507,
+  :block/updated-at 1668079043507}
+ {:block/name "partial function",
+  :block/created-at 1668079041220,
+  :block/updated-at 1668079041220}
+ {:block/name "partition",
+  :block/created-at 1668079043279,
+  :block/updated-at 1668079043279}
+ {:block/name "passive fire protection",
+  :block/created-at 1668079048617,
+  :block/updated-at 1668079048617}
+ {:block/name "pasted image 20210919203508.png",
+  :block/created-at 1668079046831,
+  :block/updated-at 1668079046831}
+ {:block/name "pasted image 20211001174144.png",
+  :block/created-at 1668079039188,
+  :block/updated-at 1668079039188}
+ {:block/name "pasted image 20211001174322.png",
+  :block/created-at 1668079039187,
+  :block/updated-at 1668079039187}
+ {:block/name "pasted image 20211001192727.png",
+  :block/created-at 1668079039175,
+  :block/updated-at 1668079039175}
+ {:block/name "pasted image 20211001192752.png",
+  :block/created-at 1668079039173,
+  :block/updated-at 1668079039173}
+ {:block/name "pasted image 20211001205641.png",
+  :block/created-at 1668079039158,
+  :block/updated-at 1668079039158}
+ {:block/name "pasted image 20211001210712.png|300",
+  :block/created-at 1668079039159,
+  :block/updated-at 1668079039159}
+ {:block/name "pasted image 20211001210827.png",
+  :block/created-at 1668079039159,
+  :block/updated-at 1668079039159}
+ {:block/name "pasted image 20211008102152.png",
+  :block/created-at 1668079046943,
+  :block/updated-at 1668079046943}
+ {:block/name "pasted image 20211008102724.png",
+  :block/created-at 1668079046939,
+  :block/updated-at 1668079046939}
+ {:block/name "pasted image 20211008103405.png",
+  :block/created-at 1668079046942,
+  :block/updated-at 1668079046942}
+ {:block/name "pasted image 20211008110623.png",
+  :block/created-at 1668079046926,
+  :block/updated-at 1668079046926}
+ {:block/name "pasted image 20211008110648.png",
+  :block/created-at 1668079046925,
+  :block/updated-at 1668079046925}
+ {:block/name "pasted image 20211012115816.png",
+  :block/created-at 1668079043616,
+  :block/updated-at 1668079043616}
+ {:block/name "pasted image 20211012120006.png",
+  :block/created-at 1668079043615,
+  :block/updated-at 1668079043615}
+ {:block/name "pasted image 20211012122812.png",
+  :block/created-at 1668079043595,
+  :block/updated-at 1668079043595}
+ {:block/name "pasted image 20211012123138.png",
+  :block/created-at 1668079043615,
+  :block/updated-at 1668079043615}
+ {:block/name "pasted image 20211012123247.png",
+  :block/created-at 1668079043614,
+  :block/updated-at 1668079043614}
+ {:block/name "pasted image 20211015124218.png",
+  :block/created-at 1668079038578,
+  :block/updated-at 1668079038578}
+ {:block/name "pasted image 20220707202814.png",
+  :block/created-at 1668079041471,
+  :block/updated-at 1668079041471}
+ {:block/name "pasted image 20220723123009.png",
+  :block/created-at 1668079050456,
+  :block/updated-at 1668079050456}
+ {:block/name "pasted image 20220723123031.png",
+  :block/created-at 1668079050455,
+  :block/updated-at 1668079050455}
+ {:block/name "pasted image 20220723123104.png",
+  :block/created-at 1668079050423,
+  :block/updated-at 1668079050423}
+ {:block/name "pasted image 20220802113825.png",
+  :block/created-at 1668079044491,
+  :block/updated-at 1668079044491}
+ {:block/name "pasted image 20220912113957.png",
+  :block/created-at 1668079040458,
+  :block/updated-at 1668079040458}
+ {:block/name "pasted image 20220918203050.png",
+  :block/created-at 1668079049263,
+  :block/updated-at 1668079049263}
+ {:block/name "pasted image 20220923111019.png",
+  :block/created-at 1668079048570,
+  :block/updated-at 1668079048570}
+ {:block/name "pasted image 20220923111210.png",
+  :block/created-at 1668079048568,
+  :block/updated-at 1668079048568}
+ {:block/name "pasted image 20220926205757.png",
+  :block/created-at 1668079046150,
+  :block/updated-at 1668079046150}
+ {:block/name "pasted image 20220926215850.png",
+  :block/created-at 1668079046075,
+  :block/updated-at 1668079046075}
+ {:block/name "pasted image 20221001140341.png",
+  :block/created-at 1668079046461,
+  :block/updated-at 1668079046461}
+ {:block/name "pasted image 20221001140404.png",
+  :block/created-at 1668079046460,
+  :block/updated-at 1668079046460}
+ {:block/name "pasted image 20221007174919.png",
+  :block/created-at 1668079042989,
+  :block/updated-at 1668079042989}
+ {:block/name "pasted image 20221023120726.png",
+  :block/created-at 1668079045366,
+  :block/updated-at 1668079045366}
+ {:block/name "pasted image 20221023120738.png",
+  :block/created-at 1668079045354,
+  :block/updated-at 1668079045354}
+ {:block/name "pasted image 20221023120919.png",
+  :block/created-at 1668079045338,
+  :block/updated-at 1668079045338}
+ {:block/name "pasted image 20221023121219.png",
+  :block/created-at 1668079045378,
+  :block/updated-at 1668079045378}
+ {:block/name "pasted image 20221023121319.png",
+  :block/created-at 1668079045428,
+  :block/updated-at 1668079045428}
+ {:block/name "pasted image 20221023121452.png",
+  :block/created-at 1668079045415,
+  :block/updated-at 1668079045415}
+ {:block/name "pasted image 20221023122027.png",
+  :block/created-at 1668079045136,
+  :block/updated-at 1668079045136}
+ {:block/name "pasted image 20221024122116.png",
+  :block/created-at 1668079042792,
+  :block/updated-at 1668079042792}
+ {:block/name "pasted image 20221027164310.png",
+  :block/created-at 1668079045224,
+  :block/updated-at 1668079045224}
+ {:block/name "pasted image 20221102163845.png",
+  :block/created-at 1668079049067,
+  :block/updated-at 1668079049067}
+ {:block/name "performance-based design",
+  :block/created-at 1668079048664,
+  :block/updated-at 1668079048664}
+ {:block/name "permutation",
+  :block/created-at 1668079042636,
+  :block/updated-at 1668079042636}
+ {:block/name "perspective transform",
+  :block/created-at 1668079039190,
+  :block/updated-at 1668079039190}
+ {:block/name "pfaffian constraint",
+  :block/created-at 1668079037917,
+  :block/updated-at 1668079037917}
+ {:block/name "phrase",
+  :block/created-at 1668079039460,
+  :block/updated-at 1668079039460}
+ {:block/name "piezo-resistive effect",
+  :block/created-at 1668079047025,
+  :block/updated-at 1668079047025}
+ {:block/name "piezo-resistive sensor",
+  :block/created-at 1668079047027,
+  :block/updated-at 1668079047027}
+ {:block/name "piezoelectric vibration sensor",
+  :block/created-at 1668079049994,
+  :block/updated-at 1668079049994}
+ {:block/name "pivot",
+  :block/created-at 1668079044351,
+  :block/updated-at 1668079044351}
+ {:block/name "place",
+  :block/created-at 1668079675960,
+  :block/updated-at 1668079675960}
+ {:block/name "planar rigid body",
+  :block/created-at 1668079045152,
+  :block/updated-at 1668079045152}
+ {:block/name "plural noun",
+  :block/created-at 1668079039659,
+  :block/updated-at 1668079039659}
+ {:block/name "poisson distribution",
+  :block/created-at 1668079042996,
+  :block/updated-at 1668079042996}
+ {:block/name "pooling",
+  :block/created-at 1668079038476,
+  :block/updated-at 1668079038476}
+ {:block/name "population",
+  :block/created-at 1668079041862,
+  :block/updated-at 1668079041862}
+ {:block/name "possessive case",
+  :block/created-at 1668079039539,
+  :block/updated-at 1668079039539}
+ {:block/name "predicate",
+  :block/created-at 1668079039442,
+  :block/updated-at 1668079039442}
+ {:block/name "predicate formular",
+  :block/created-at 1668079044858,
+  :block/updated-at 1668079044858}
+ {:block/name "predicate verb",
+  :block/created-at 1668079039349,
+  :block/updated-at 1668079039349}
+ {:block/name "preposition",
+  :block/created-at 1668079039342,
+  :block/updated-at 1668079039342}
+ {:block/name "prismatic joint",
+  :block/created-at 1668079045398,
+  :block/updated-at 1668079045398}
+ {:block/name "probability",
+  :block/created-at 1668079041865,
+  :block/updated-at 1668079041865}
+ {:block/name "probability and statistic_mindmap",
+  :block/created-at 1668079042515,
+  :block/updated-at 1668079042515}
+ {:block/name "probability density",
+  :block/created-at 1668079039202,
+  :block/updated-at 1668079039202}
+ {:block/name "probability density function",
+  :block/created-at 1668079042794,
+  :block/updated-at 1668079042794}
+ {:block/name "probability distribution",
+  :block/created-at 1668079039214,
+  :block/updated-at 1668079039214}
+ {:block/name "probability mass function",
+  :block/created-at 1668079043126,
+  :block/updated-at 1668079043126}
+ {:block/name "process noise",
+  :block/created-at 1668079046950,
+  :block/updated-at 1668079046950}
+ {:block/name "process of fire development",
+  :block/created-at 1668079048554,
+  :block/updated-at 1668079048554}
+ {:block/name "projection",
+  :block/created-at 1668079043771,
+  :block/updated-at 1668079043771}
+ {:block/name "pronoun",
+  :block/created-at 1668079039327,
+  :block/updated-at 1668079039327}
+ {:block/name "proof",
+  :block/created-at 1668079041690,
+  :block/updated-at 1668079041690}
+ {:block/name "proof by contradiction",
+  :block/created-at 1668079044659,
+  :block/updated-at 1668079044659}
+ {:block/name "proper noun",
+  :block/created-at 1668079039637,
+  :block/updated-at 1668079039637}
+ {:block/name "proposition",
+  :block/created-at 1668079042687,
+  :block/updated-at 1668079042687}
+ {:block/name "proposition operations",
+  :block/created-at 1668079044935,
+  :block/updated-at 1668079044935}
+ {:block/name
+  "propterty involve rotations and skew-symmetric matrices",
+  :block/created-at 1668079045653,
+  :block/updated-at 1668079045653}
+ {:block/name "providing information of nodes",
+  :block/created-at 1668079046254,
+  :block/updated-at 1668079046254}
+ {:block/name "ps结构",
+  :block/created-at 1668079050144,
+  :block/updated-at 1668079050144}
+ {:block/name "publisher",
+  :block/created-at 1668079675959,
+  :block/updated-at 1668079675959}
+ {:block/name "publisher node",
+  :block/created-at 1668079046299,
+  :block/updated-at 1668079046299}
+ {:block/name "pwd",
+  :block/created-at 1668079039250,
+  :block/updated-at 1668079039250}
+ {:block/name "python 注释",
+  :block/created-at 1668079039059,
+  :block/updated-at 1668079039059}
+ {:block/name "pytorch",
+  :block/created-at 1668079038112,
+  :block/updated-at 1668079038112}
+ {:block/name "pytorch 文件操作",
+  :block/created-at 1668079038102,
+  :block/updated-at 1668079038102}
+ {:block/name "pytorch 模型构造",
+  :block/created-at 1668079038352,
+  :block/updated-at 1668079038352}
+ {:block/name "quadratic approximation",
+  :block/created-at 1668079041141,
+  :block/updated-at 1668079041141}
+ {:block/name "random event",
+  :block/created-at 1668079043198,
+  :block/updated-at 1668079043198}
+ {:block/name "random sample",
+  :block/created-at 1668079043544,
+  :block/updated-at 1668079043544}
+ {:block/name "random variable",
+  :block/created-at 1668079043149,
+  :block/updated-at 1668079043149}
+ {:block/name "rank",
+  :block/created-at 1668079044342,
+  :block/updated-at 1668079044342}
+ {:block/name "rational function",
+  :block/created-at 1668079041800,
+  :block/updated-at 1668079041800}
+ {:block/name "redundant",
+  :block/created-at 1668079045160,
+  :block/updated-at 1668079045160}
+ {:block/name "reference frame for a rigid body",
+  :block/created-at 1668079045570,
+  :block/updated-at 1668079045570}
+ {:block/name "reference letter",
+  :block/created-at 1668079050362,
+  :block/updated-at 1668079050362}
+ {:block/name "relative frequency histogram",
+  :block/created-at 1668079043468,
+  :block/updated-at 1668079043468}
+ {:block/name "relative-frequency approach",
+  :block/created-at 1668079043324,
+  :block/updated-at 1668079043324}
+ {:block/name "relu",
+  :block/created-at 1668079038793,
+  :block/updated-at 1668079038793}
+ {:block/name "removable discontinuity",
+  :block/created-at 1668079041299,
+  :block/updated-at 1668079041299}
+ {:block/name "represent an orientation of a frame",
+  :block/created-at 1668079045612,
+  :block/updated-at 1668079045612}
+ {:block/name "representation of a function",
+  :block/created-at 1668079041364,
+  :block/updated-at 1668079041364}
+ {:block/name "revolute joint",
+  :block/created-at 1668079045397,
+  :block/updated-at 1668079045397}
+ {:block/name "riemann sum",
+  :block/created-at 1668079041663,
+  :block/updated-at 1668079041663}
+ {:block/name "right continuity",
+  :block/created-at 1668079041326,
+  :block/updated-at 1668079041326}
+ {:block/name "right hand limit",
+  :block/created-at 1668079041108,
+  :block/updated-at 1668079041108}
+ {:block/name "right-hand rule",
+  :block/created-at 1668079045538,
+  :block/updated-at 1668079045538}
+ {:block/name "rigid body",
+  :block/created-at 1668079045579,
+  :block/updated-at 1668079045579}
+ {:block/name "rigid-body motion",
+  :block/created-at 1668079045512,
+  :block/updated-at 1668079045512}
+ {:block/name "rignt hand limit",
+  :block/created-at 1668079041837,
+  :block/updated-at 1668079041837}
+ {:block/name "robot",
+  :block/created-at 1668079045289,
+  :block/updated-at 1668079045289}
+ {:block/name "robot_mindmap",
+  :block/created-at 1668079045290,
+  :block/updated-at 1668079045290}
+ {:block/name "rolle's theorem",
+  :block/created-at 1668079041135,
+  :block/updated-at 1668079041135}
+ {:block/name "rolle‘s theorem",
+  :block/created-at 1668079040881,
+  :block/updated-at 1668079040881}
+ {:block/name "ros",
+  :block/created-at 1668079046816,
+  :block/updated-at 1668079046816}
+ {:block/name "ros architecture",
+  :block/created-at 1668079046793,
+  :block/updated-at 1668079046793}
+ {:block/name "ros build system",
+  :block/created-at 1668079046801,
+  :block/updated-at 1668079046801}
+ {:block/name "ros client libraries",
+  :block/created-at 1668079046802,
+  :block/updated-at 1668079046802}
+ {:block/name "ros command tools",
+  :block/created-at 1668079046798,
+  :block/updated-at 1668079046798}
+ {:block/name "ros computational concepts",
+  :block/created-at 1668079046803,
+  :block/updated-at 1668079046803}
+ {:block/name "ros file system",
+  :block/created-at 1668079046803,
+  :block/updated-at 1668079046803}
+ {:block/name "ros functions",
+  :block/created-at 1668079046806,
+  :block/updated-at 1668079046806}
+ {:block/name "ros gui tools",
+  :block/created-at 1668079046800,
+  :block/updated-at 1668079046800}
+ {:block/name "ros launch file",
+  :block/created-at 1668079046483,
+  :block/updated-at 1668079046483}
+ {:block/name "ros logging",
+  :block/created-at 1668079046526,
+  :block/updated-at 1668079046526}
+ {:block/name "ros master",
+  :block/created-at 1668079046224,
+  :block/updated-at 1668079046224}
+ {:block/name "ros message",
+  :block/created-at 1668079046277,
+  :block/updated-at 1668079046277}
+ {:block/name "ros message and service type description",
+  :block/created-at 1668079046678,
+  :block/updated-at 1668079046678}
+ {:block/name "ros metapackage",
+  :block/created-at 1668079046796,
+  :block/updated-at 1668079046796}
+ {:block/name "ros node",
+  :block/created-at 1668079046805,
+  :block/updated-at 1668079046805}
+ {:block/name "ros package",
+  :block/created-at 1668079046795,
+  :block/updated-at 1668079046795}
+ {:block/name "ros parameter server",
+  :block/created-at 1668079046171,
+  :block/updated-at 1668079046171}
+ {:block/name "ros repository",
+  :block/created-at 1668079046513,
+  :block/updated-at 1668079046513}
+ {:block/name "ros service",
+  :block/created-at 1668079046312,
+  :block/updated-at 1668079046312}
+ {:block/name "ros topic",
+  :block/created-at 1668079046412,
+  :block/updated-at 1668079046412}
+ {:block/name "ros working space",
+  :block/created-at 1668079046801,
+  :block/updated-at 1668079046801}
+ {:block/name "ros_debug",
+  :block/created-at 1668079046538,
+  :block/updated-at 1668079046538}
+ {:block/name "ros_error",
+  :block/created-at 1668079046544,
+  :block/updated-at 1668079046544}
+ {:block/name "ros_fatal",
+  :block/created-at 1668079046552,
+  :block/updated-at 1668079046552}
+ {:block/name "ros_info",
+  :block/created-at 1668079046558,
+  :block/updated-at 1668079046558}
+ {:block/name "ros_mindmap",
+  :block/created-at 1668079046817,
+  :block/updated-at 1668079046817}
+ {:block/name "ros_warn",
+  :block/created-at 1668079046566,
+  :block/updated-at 1668079046566}
+ {:block/name "rosbag",
+  :block/created-at 1668079046412,
+  :block/updated-at 1668079046412}
+ {:block/name "roscd",
+  :block/created-at 1668079046420,
+  :block/updated-at 1668079046420}
+ {:block/name "roscp",
+  :block/created-at 1668079046431,
+  :block/updated-at 1668079046431}
+ {:block/name "roscpp",
+  :block/created-at 1668079046804,
+  :block/updated-at 1668079046804}
+ {:block/name "roslaunch",
+  :block/created-at 1668079046482,
+  :block/updated-at 1668079046482}
+ {:block/name "rospy",
+  :block/created-at 1668079046805,
+  :block/updated-at 1668079046805}
+ {:block/name "rosrun",
+  :block/created-at 1668079046494,
+  :block/updated-at 1668079046494}
+ {:block/name "rotate a vector or frame",
+  :block/created-at 1668079045610,
+  :block/updated-at 1668079045610}
+ {:block/name "rotation",
+  :block/created-at 1668079045377,
+  :block/updated-at 1668079045377}
+ {:block/name "rotation matrix",
+  :block/created-at 1668079037911,
+  :block/updated-at 1668079037911}
+ {:block/name "row space",
+  :block/created-at 1668079043866,
+  :block/updated-at 1668079043866}
+ {:block/name "rqt",
+  :block/created-at 1668079046089,
+  :block/updated-at 1668079046089}
+ {:block/name "rqt_console",
+  :block/created-at 1668079046098,
+  :block/updated-at 1668079046098}
+ {:block/name "rqt_graph",
+  :block/created-at 1668079046347,
+  :block/updated-at 1668079046347}
+ {:block/name "rqt_logger_level",
+  :block/created-at 1668079046117,
+  :block/updated-at 1668079046117}
+ {:block/name "rqt_plot",
+  :block/created-at 1668079046127,
+  :block/updated-at 1668079046127}
+ {:block/name "running nodes",
+  :block/created-at 1668079046260,
+  :block/updated-at 1668079046260}
+ {:block/name "sample",
+  :block/created-at 1668079041860,
+  :block/updated-at 1668079041860}
+ {:block/name "sample data",
+  :block/created-at 1668079043571,
+  :block/updated-at 1668079043571}
+ {:block/name "sample size",
+  :block/created-at 1668079043551,
+  :block/updated-at 1668079043551}
+ {:block/name "sample space",
+  :block/created-at 1668079043294,
+  :block/updated-at 1668079043294}
+ {:block/name "sample-point method",
+  :block/created-at 1668079042691,
+  :block/updated-at 1668079042691}
+ {:block/name "sampling error",
+  :block/created-at 1668079043563,
+  :block/updated-at 1668079043563}
+ {:block/name "satisfiability",
+  :block/created-at 1668079044892,
+  :block/updated-at 1668079044892}
+ {:block/name "script",
+  :block/created-at 1668079046656,
+  :block/updated-at 1668079046656}
+ {:block/name "sensor",
+  :block/created-at 1668079045403,
+  :block/updated-at 1668079045403}
+ {:block/name "sentence",
+  :block/created-at 1668079039409,
+  :block/updated-at 1668079039409}
+ {:block/name "sentence analysis",
+  :block/created-at 1668079039472,
+  :block/updated-at 1668079039472}
+ {:block/name "sequence",
+  :block/created-at 1668079044580,
+  :block/updated-at 1668079044580}
+ {:block/name "server node",
+  :block/created-at 1668079046311,
+  :block/updated-at 1668079046311}
+ {:block/name "set",
+  :block/created-at 1668079045063,
+  :block/updated-at 1668079045063}
+ {:block/name "sgd",
+  :block/created-at 1668079038162,
+  :block/updated-at 1668079038162}
+ {:block/name "short-title",
+  :block/created-at 1668079675965,
+  :block/updated-at 1668079675965}
+ {:block/name "sigmoid",
+  :block/created-at 1668079038804,
+  :block/updated-at 1668079038804}
+ {:block/name "simple event",
+  :block/created-at 1668079043246,
+  :block/updated-at 1668079043246}
+ {:block/name "simple event 1",
+  :block/created-at 1668079042502,
+  :block/updated-at 1668079042502}
+ {:block/name "simple event |sample point",
+  :block/created-at 1668079043291,
+  :block/updated-at 1668079043291}
+ {:block/name "simple event|sample point",
+  :block/created-at 1668079043203,
+  :block/updated-at 1668079043203}
+ {:block/name "sin(x)",
+  :block/created-at 1668079041472,
+  :block/updated-at 1668079041472}
+ {:block/name "singular noun",
+  :block/created-at 1668079039671,
+  :block/updated-at 1668079039671}
+ {:block/name "singularity",
+  :block/created-at 1668079045239,
+  :block/updated-at 1668079045239}
+ {:block/name "skew-symmetric matrix",
+  :block/created-at 1668079045696,
+  :block/updated-at 1668079045696}
+ {:block/name "slam",
+  :block/created-at 1668079046832,
+  :block/updated-at 1668079046832}
+ {:block/name "slippage",
+  :block/created-at 1668079045496,
+  :block/updated-at 1668079045496}
+ {:block/name "softmax",
+  :block/created-at 1668079038305,
+  :block/updated-at 1668079038305}
+ {:block/name "solution to ax = b",
+  :block/created-at 1668079043946,
+  :block/updated-at 1668079043946}
+ {:block/name "space frame",
+  :block/created-at 1668079045684,
+  :block/updated-at 1668079045684}
+ {:block/name "spatial force",
+  :block/created-at 1668079045641,
+  :block/updated-at 1668079045641}
+ {:block/name "spatial rigid body",
+  :block/created-at 1668079045167,
+  :block/updated-at 1668079045167}
+ {:block/name "spatial velocity",
+  :block/created-at 1668079045708,
+  :block/updated-at 1668079045708}
+ {:block/name "special orthogonal group",
+  :block/created-at 1668079045629,
+  :block/updated-at 1668079045629}
+ {:block/name "spherical joint",
+  :block/created-at 1668079045417,
+  :block/updated-at 1668079045417}
+ {:block/name "square matrix",
+  :block/created-at 1668079043946,
+  :block/updated-at 1668079043946}
+ {:block/name "squeeze theorem",
+  :block/created-at 1668079041830,
+  :block/updated-at 1668079041830}
+ {:block/name "src",
+  :block/created-at 1668079046666,
+  :block/updated-at 1668079046666}
+ {:block/name "src folder",
+  :block/created-at 1668079046797,
+  :block/updated-at 1668079046797}
+ {:block/name "srv file",
+  :block/created-at 1668079046334,
+  :block/updated-at 1668079046334}
+ {:block/name "srv folder",
+  :block/created-at 1668079046603,
+  :block/updated-at 1668079046603}
+ {:block/name "standard deviation",
+  :block/created-at 1668079043428,
+  :block/updated-at 1668079043428}
+ {:block/name "standard normal distribution",
+  :block/created-at 1668079042883,
+  :block/updated-at 1668079042883}
+ {:block/name "state machine",
+  :block/created-at 1668079044465,
+  :block/updated-at 1668079044465}
+ {:block/name "statistic",
+  :block/created-at 1668079041863,
+  :block/updated-at 1668079041863}
+ {:block/name "statistically independent",
+  :block/created-at 1668079043118,
+  :block/updated-at 1668079043118}
+ {:block/name "stride",
+  :block/created-at 1668079038494,
+  :block/updated-at 1668079038494}
+ {:block/name "stride|步幅",
+  :block/created-at 1668079038474,
+  :block/updated-at 1668079038474}
+ {:block/name "sub-differentiable",
+  :block/created-at 1668079041122,
+  :block/updated-at 1668079041122}
+ {:block/name "subjective",
+  :block/created-at 1668079039453,
+  :block/updated-at 1668079039453}
+ {:block/name "subjective approach",
+  :block/created-at 1668079043339,
+  :block/updated-at 1668079043339}
+ {:block/name "subscriber node",
+  :block/created-at 1668079046300,
+  :block/updated-at 1668079046300}
+ {:block/name "subset",
+  :block/created-at 1668079044968,
+  :block/updated-at 1668079044968}
+ {:block/name "subspace",
+  :block/created-at 1668079043869,
+  :block/updated-at 1668079043869}
+ {:block/name "substitution rule",
+  :block/created-at 1668079041691,
+  :block/updated-at 1668079041691}
+ {:block/name "symmetric matrix",
+  :block/created-at 1668079043945,
+  :block/updated-at 1668079043945}
+ {:block/name "tamu me 大纲",
+  :block/created-at 1668079050157,
+  :block/updated-at 1668079050157}
+ {:block/name "tan(x)",
+  :block/created-at 1668079041483,
+  :block/updated-at 1668079041483}
+ {:block/name "tanh",
+  :block/created-at 1668079038812,
+  :block/updated-at 1668079038812}
+ {:block/name "task space",
+  :block/created-at 1668079045251,
+  :block/updated-at 1668079045251}
+ {:block/name "task space and configuration space",
+  :block/created-at 1668079049719,
+  :block/updated-at 1668079049719}
+ {:block/name "the extreme value theorem",
+  :block/created-at 1668079041727,
+  :block/updated-at 1668079041727}
+ {:block/name "the fundamental theorem of calculus",
+  :block/created-at 1668079041729,
+  :block/updated-at 1668079041729}
+ {:block/name "the midpoint rule",
+  :block/created-at 1668079041614,
+  :block/updated-at 1668079041614}
+ {:block/name "the net change theorem",
+  :block/created-at 1668079041577,
+  :block/updated-at 1668079041577}
+ {:block/name "the well ordering principle",
+  :block/created-at 1668079044604,
+  :block/updated-at 1668079044604}
+ {:block/name "theorem",
+  :block/created-at 1668079044693,
+  :block/updated-at 1668079044693}
+ {:block/name "thermal sensor",
+  :block/created-at 1668079047047,
+  :block/updated-at 1668079047047}
+ {:block/name "three words density probability and distribution",
+  :block/created-at 1668079049659,
+  :block/updated-at 1668079049659}
+ {:block/name "todo",
+  :block/created-at 1668079623295,
+  :block/updated-at 1668079623295}
+ {:block/name "tofel and gre送分流程",
+  :block/created-at 1668079050351,
+  :block/updated-at 1668079050351}
+ {:block/name "topologically distinct",
+  :block/created-at 1668079045034,
+  :block/updated-at 1668079045034}
+ {:block/name "topologically equivalent",
+  :block/created-at 1668079045074,
+  :block/updated-at 1668079045074}
+ {:block/name "topology",
+  :block/created-at 1668079045238,
+  :block/updated-at 1668079045238}
+ {:block/name "topology space",
+  :block/created-at 1668079045074,
+  :block/updated-at 1668079045074}
+ {:block/name "torch",
+  :block/created-at 1668079038126,
+  :block/updated-at 1668079038126}
+ {:block/name "torch/utils",
+  :block/created-at 1668079038124,
+  :block/updated-at 1668079038124}
+ {:block/name "total function",
+  :block/created-at 1668079041231,
+  :block/updated-at 1668079041231}
+ {:block/name "transitive verb",
+  :block/created-at 1668079039353,
+  :block/updated-at 1668079039353}
+ {:block/name "translation",
+  :block/created-at 1668079045378,
+  :block/updated-at 1668079045378}
+ {:block/name "transpose",
+  :block/created-at 1668079043953,
+  :block/updated-at 1668079043953}
+ {:block/name "trigonometric function",
+  :block/created-at 1668079041493,
+  :block/updated-at 1668079041493}
+ {:block/name "trigonometric integration",
+  :block/created-at 1668079041705,
+  :block/updated-at 1668079041705}
+ {:block/name "tud_me 大纲",
+  :block/created-at 1668079050169,
+  :block/updated-at 1668079050169}
+ {:block/name "two sides limit",
+  :block/created-at 1668079041846,
+  :block/updated-at 1668079041846}
+ {:block/name "types of functions",
+  :block/created-at 1668079041501,
+  :block/updated-at 1668079041501}
+ {:block/name "types of sentence",
+  :block/created-at 1668079039483,
+  :block/updated-at 1668079039483}
+ {:block/name "umich me ps",
+  :block/created-at 1668079050302,
+  :block/updated-at 1668079050302}
+ {:block/name "umich ps 大纲",
+  :block/created-at 1668079050340,
+  :block/updated-at 1668079050340}
+ {:block/name "umich sop 大纲",
+  :block/created-at 1668079050332,
+  :block/updated-at 1668079050332}
+ {:block/name "umn msr 大纲",
+  :block/created-at 1668079050180,
+  :block/updated-at 1668079050180}
+ {:block/name "uncountable noun",
+  :block/created-at 1668079039553,
+  :block/updated-at 1668079039553}
+ {:block/name "unit quaternion",
+  :block/created-at 1668079037910,
+  :block/updated-at 1668079037910}
+ {:block/name "unit vector",
+  :block/created-at 1668079044426,
+  :block/updated-at 1668079044426}
+ {:block/name "universal joint",
+  :block/created-at 1668079045429,
+  :block/updated-at 1668079045429}
+ {:block/name "upenn me 大纲",
+  :block/created-at 1668079050228,
+  :block/updated-at 1668079050228}
+ {:block/name "upenn msr",
+  :block/created-at 1668079050238,
+  :block/updated-at 1668079050238}
+ {:block/name "upper-triangular",
+  :block/created-at 1668079043721,
+  :block/updated-at 1668079043721}
+ {:block/name "uwm me 大纲",
+  :block/created-at 1668079050193,
+  :block/updated-at 1668079050193}
+ {:block/name "uwm_interview",
+  :block/created-at 1668079050215,
+  :block/updated-at 1668079050215}
+ {:block/name "validity",
+  :block/created-at 1668079044903,
+  :block/updated-at 1668079044903}
+ {:block/name "variable",
+  :block/created-at 1668079043572,
+  :block/updated-at 1668079043572}
+ {:block/name "variance",
+  :block/created-at 1668079043449,
+  :block/updated-at 1668079043449}
+ {:block/name "vector",
+  :block/created-at 1668079043977,
+  :block/updated-at 1668079043977}
+ {:block/name "vector spaces",
+  :block/created-at 1668079043880,
+  :block/updated-at 1668079043880}
+ {:block/name "verb",
+  :block/created-at 1668079039512,
+  :block/updated-at 1668079039512}
+ {:block/name
+  "vibration sensor for the health monitoring of the large rotating machinery review and outlook",
+  :block/created-at 1668079049966,
+  :block/updated-at 1668079049966}
+ {:block/name "volume problem",
+  :block/created-at 1668079041661,
+  :block/updated-at 1668079041661}
+ {:block/name "vt_me 大纲",
+  :block/created-at 1668079050263,
+  :block/updated-at 1668079050263}
+ {:block/name "wait",
+  :block/created-at 1668079623292,
+  :block/updated-at 1668079623292}
+ {:block/name "waiting",
+  :block/created-at 1668079623291,
+  :block/updated-at 1668079623291}
+ {:block/name "well ordered set",
+  :block/created-at 1668079044623,
+  :block/updated-at 1668079044623}
+ {:block/name "well ordering principle",
+  :block/created-at 1668079044572,
+  :block/updated-at 1668079044572}
+ {:block/name "well ordering proof",
+  :block/created-at 1668079044635,
+  :block/updated-at 1668079044635}
+ {:block/name
+  "what is the relationship between joint distribution random variable and intersect of two randm variables",
+  :block/created-at 1668079049633,
+  :block/updated-at 1668079049633}
+ {:block/name "what should be inside permenant notes folder",
+  :block/created-at 1668079049726,
+  :block/updated-at 1668079049726}
+ {:block/name "width",
+  :block/created-at 1668079043475,
+  :block/updated-at 1668079043475}
+ {:block/name "workspace",
+  :block/created-at 1668079045262,
+  :block/updated-at 1668079045262}
+ {:block/name "wpi msr 大纲",
+  :block/created-at 1668079050292,
+  :block/updated-at 1668079050292}
+ {:block/name "xml",
+  :block/created-at 1668079046473,
+  :block/updated-at 1668079046473}
+ {:block/name "xor",
+  :block/created-at 1668079044825,
+  :block/updated-at 1668079044825}
+ {:block/name "zotero",
+  :block/created-at 1668079049409,
+  :block/updated-at 1668079049409}
+ {:block/name
+  "{{zotero-imported-file 97tqknc2, \"lynch_park_2017_modern robotics.pdf\"}}",
+  :block/created-at 1668080250020,
+  :block/updated-at 1668080250020}
+ {:block/name "一次性访问所有参数",
+  :block/created-at 1668079038339,
+  :block/updated-at 1668079038339}
+ {:block/name "三焦",
+  :block/created-at 1668079049174,
+  :block/updated-at 1668079049174}
+ {:block/name "专注需求的要点",
+  :block/created-at 1668079047056,
+  :block/updated-at 1668079047056}
+ {:block/name "丢弃法",
+  :block/created-at 1668079038780,
+  :block/updated-at 1668079038780}
+ {:block/name "两个以上空格加回车",
+  :block/created-at 1668079049273,
+  :block/updated-at 1668079049273}
+ {:block/name "中医",
+  :block/created-at 1668079047070,
+  :block/updated-at 1668079047070}
+ {:block/name "中医人体组成",
+  :block/created-at 1668079049211,
+  :block/updated-at 1668079049211}
+ {:block/name "中医学",
+  :block/created-at 1668079049199,
+  :block/updated-at 1668079049199}
+ {:block/name "中医治疗",
+  :block/created-at 1668079049195,
+  :block/updated-at 1668079049195}
+ {:block/name "中医生理",
+  :block/created-at 1668079049212,
+  :block/updated-at 1668079049212}
+ {:block/name "中医病理",
+  :block/created-at 1668079049197,
+  :block/updated-at 1668079049197}
+ {:block/name "人体健康阶段",
+  :block/created-at 1668079047084,
+  :block/updated-at 1668079047084}
+ {:block/name "优化算法",
+  :block/created-at 1668079038837,
+  :block/updated-at 1668079038837}
+ {:block/name "倒转顺序",
+  :block/created-at 1668079039137,
+  :block/updated-at 1668079039137}
+ {:block/name "关键点",
+  :block/created-at 1668079046881,
+  :block/updated-at 1668079046881}
+ {:block/name "删除指定值",
+  :block/created-at 1668079039136,
+  :block/updated-at 1668079039136}
+ {:block/name "刻意练习",
+  :block/created-at 1668079049098,
+  :block/updated-at 1668079049098}
+ {:block/name "动作动词",
+  :block/created-at 1668079039333,
+  :block/updated-at 1668079039333}
+ {:block/name "卡片盒笔记法",
+  :block/created-at 1668079049417,
+  :block/updated-at 1668079049417}
+ {:block/name "卷积",
+  :block/created-at 1668079038455,
+  :block/updated-at 1668079038455}
+ {:block/name "变量",
+  :block/created-at 1668079039069,
+  :block/updated-at 1668079039069}
+ {:block/name "图像特征",
+  :block/created-at 1668079046911,
+  :block/updated-at 1668079046911}
+ {:block/name "多层感知机",
+  :block/created-at 1668079038549,
+  :block/updated-at 1668079038549}
+ {:block/name "多输入通道",
+  :block/created-at 1668079038505,
+  :block/updated-at 1668079038505}
+ {:block/name "多输出通道",
+  :block/created-at 1668079038525,
+  :block/updated-at 1668079038525}
+ {:block/name "大纲",
+  :block/created-at 1668079049479,
+  :block/updated-at 1668079049479}
+ {:block/name "大肠",
+  :block/created-at 1668079049245,
+  :block/updated-at 1668079049245}
+ {:block/name "套磁_example_1",
+  :block/created-at 1668079050448,
+  :block/updated-at 1668079050448}
+ {:block/name "套磁_example_2",
+  :block/created-at 1668079050456,
+  :block/updated-at 1668079050456}
+ {:block/name "套磁事项",
+  :block/created-at 1668079050424,
+  :block/updated-at 1668079050424}
+ {:block/name "套磁模板",
+  :block/created-at 1668079050435,
+  :block/updated-at 1668079050435}
+ {:block/name "好书记录",
+  :block/created-at 1668079049105,
+  :block/updated-at 1668079049105}
+ {:block/name "好工具记录",
+  :block/created-at 1668079049455,
+  :block/updated-at 1668079049455}
+ {:block/name "字符串",
+  :block/created-at 1668079039088,
+  :block/updated-at 1668079039088}
+ {:block/name "学习率",
+  :block/created-at 1668079038840,
+  :block/updated-at 1668079038840}
+ {:block/name "定义前向计算",
+  :block/created-at 1668079038337,
+  :block/updated-at 1668079038337}
+ {:block/name "定义需要的类和参数",
+  :block/created-at 1668079038338,
+  :block/updated-at 1668079038338}
+ {:block/name "审稿流程__知乎文章1",
+  :block/created-at 1668079049514,
+  :block/updated-at 1668079049514}
+ {:block/name "对于每一个module都调用这个方法",
+  :block/created-at 1668079038347,
+  :block/updated-at 1668079038347}
+ {:block/name "小肠",
+  :block/created-at 1668079049244,
+  :block/updated-at 1668079049244}
+ {:block/name "弹出任意位置变量",
+  :block/created-at 1668079039135,
+  :block/updated-at 1668079039135}
+ {:block/name "弹出列表末尾元素",
+  :block/created-at 1668079039136,
+  :block/updated-at 1668079039136}
+ {:block/name "待办工作",
+  :block/created-at 1668079050011,
+  :block/updated-at 1668079050011}
+ {:block/name "心",
+  :block/created-at 1668079049218,
+  :block/updated-at 1668079049218}
+ {:block/name "感知机",
+  :block/created-at 1668079038563,
+  :block/updated-at 1668079038563}
+ {:block/name "拓展",
+  :block/created-at 1668079049135,
+  :block/updated-at 1668079049135}
+ {:block/name "按字母顺序排列，reverse参数为真则顺序相反",
+  :block/created-at 1668079039139,
+  :block/updated-at 1668079039139}
+ {:block/name "损失函数",
+  :block/created-at 1668079038836,
+  :block/updated-at 1668079038836}
+ {:block/name "描述子",
+  :block/created-at 1668079046882,
+  :block/updated-at 1668079046882}
+ {:block/name "数值稳定性",
+  :block/created-at 1668079038688,
+  :block/updated-at 1668079038688}
+ {:block/name "数字",
+  :block/created-at 1668079039100,
+  :block/updated-at 1668079039100}
+ {:block/name "数据复杂度",
+  :block/created-at 1668079038761,
+  :block/updated-at 1668079038761}
+ {:block/name "文献阅读方法——李沐",
+  :block/created-at 1668079049528,
+  :block/updated-at 1668079049528}
+ {:block/name "未命名思维导图",
+  :block/created-at 1668079049164,
+  :block/updated-at 1668079049164}
+ {:block/name "权重衰减",
+  :block/created-at 1668079038778,
+  :block/updated-at 1668079038778}
+ {:block/name "构建输出矩阵y",
+  :block/created-at 1668079038415,
+  :block/updated-at 1668079038415}
+ {:block/name "模型中定义内容",
+  :block/created-at 1668079038195,
+  :block/updated-at 1668079038195}
+ {:block/name "模型中的所有参数存成一个字典",
+  :block/created-at 1668079038101,
+  :block/updated-at 1668079038101}
+ {:block/name "模型容量",
+  :block/created-at 1668079038600,
+  :block/updated-at 1668079038600}
+ {:block/name "横向拓展",
+  :block/created-at 1668079049143,
+  :block/updated-at 1668079049143}
+ {:block/name "欠拟合",
+  :block/created-at 1668079038701,
+  :block/updated-at 1668079038701}
+ {:block/name "气",
+  :block/created-at 1668079047089,
+  :block/updated-at 1668079047089}
+ {:block/name "泛化误差",
+  :block/created-at 1668079038712,
+  :block/updated-at 1668079038712}
+ {:block/name "测试数据集",
+  :block/created-at 1668079038061,
+  :block/updated-at 1668079038061}
+ {:block/name "深度学习",
+  :block/created-at 1668079038008,
+  :block/updated-at 1668079038008}
+ {:block/name "深度学习步骤",
+  :block/created-at 1668079038843,
+  :block/updated-at 1668079038843}
+ {:block/name "深度拓展",
+  :block/created-at 1668079049149,
+  :block/updated-at 1668079049149}
+ {:block/name "激活函数",
+  :block/created-at 1668079038579,
+  :block/updated-at 1668079038579}
+ {:block/name "特征点",
+  :block/created-at 1668079046884,
+  :block/updated-at 1668079046884}
+ {:block/name "特征点法",
+  :block/created-at 1668079046909,
+  :block/updated-at 1668079046909}
+ {:block/name "状态动词",
+  :block/created-at 1668079039335,
+  :block/updated-at 1668079039335}
+ {:block/name "知乎文章1",
+  :block/created-at 1668079049542,
+  :block/updated-at 1668079049542}
+ {:block/name "石哥推荐信 大纲",
+  :block/created-at 1668079050384,
+  :block/updated-at 1668079050384}
+ {:block/name "石哥推荐信 格式",
+  :block/created-at 1668079050397,
+  :block/updated-at 1668079050397}
+ {:block/name "研究生手册——彭明辉",
+  :block/created-at 1668079049579,
+  :block/updated-at 1668079049579}
+ {:block/name "离散数学",
+  :block/created-at 1668079044586,
+  :block/updated-at 1668079044586}
+ {:block/name "第一个1是输入通道数量",
+  :block/created-at 1668079038504,
+  :block/updated-at 1668079038504}
+ {:block/name "第二个1是输出通道数量",
+  :block/created-at 1668079038524,
+  :block/updated-at 1668079038524}
+ {:block/name "第二层和第三层会共享参数",
+  :block/created-at 1668079038349,
+  :block/updated-at 1668079038349}
+ {:block/name "类型是ordereddict",
+  :block/created-at 1668079038345,
+  :block/updated-at 1668079038345}
+ {:block/name "纵向拓展",
+  :block/created-at 1668079049156,
+  :block/updated-at 1668079049156}
+ {:block/name "线性回归",
+  :block/created-at 1668079038647,
+  :block/updated-at 1668079038647}
+ {:block/name "线性层",
+  :block/created-at 1668079038210,
+  :block/updated-at 1668079038210}
+ {:block/name "网申流程",
+  :block/created-at 1668079050465,
+  :block/updated-at 1668079214901}
+ {:block/name "罗哥推荐信",
+  :block/created-at 1668079050409,
+  :block/updated-at 1668079050409}
+ {:block/name "美国生活注意事项",
+  :block/created-at 1668079047104,
+  :block/updated-at 1668079047104}
+ {:block/name "肝",
+  :block/created-at 1668079049181,
+  :block/updated-at 1668079049181}
+ {:block/name "肺",
+  :block/created-at 1668079049228,
+  :block/updated-at 1668079049228}
+ {:block/name "肾",
+  :block/created-at 1668079049235,
+  :block/updated-at 1668079049235}
+ {:block/name "胃",
+  :block/created-at 1668079049246,
+  :block/updated-at 1668079049246}
+ {:block/name "胆",
+  :block/created-at 1668079049175,
+  :block/updated-at 1668079049175}
+ {:block/name "脾",
+  :block/created-at 1668079049180,
+  :block/updated-at 1668079049180}
+ {:block/name "膀胱",
+  :block/created-at 1668079049176,
+  :block/updated-at 1668079049176}
+ {:block/name "草稿",
+  :block/created-at 1668079049493,
+  :block/updated-at 1668079049493}
+ {:block/name "获得偏移的数据",
+  :block/created-at 1668079038343,
+  :block/updated-at 1668079038343}
+ {:block/name "视觉里程计",
+  :block/created-at 1668079046911,
+  :block/updated-at 1668079046911}
+ {:block/name "计算y每个entry的值",
+  :block/created-at 1668079038414,
+  :block/updated-at 1668079038414}
+ {:block/name "训练数据集",
+  :block/created-at 1668079038659,
+  :block/updated-at 1668079038659}
+ {:block/name "训练流程",
+  :block/created-at 1668079038839,
+  :block/updated-at 1668079038839}
+ {:block/name "训练误差",
+  :block/created-at 1668079038763,
+  :block/updated-at 1668079038763}
+ {:block/name "训练轮数",
+  :block/created-at 1668079038842,
+  :block/updated-at 1668079038842}
+ {:block/name "论证",
+  :block/created-at 1668079049503,
+  :block/updated-at 1668079049503}
+ {:block/name "访问梯度",
+  :block/created-at 1668079038342,
+  :block/updated-at 1668079038342}
+ {:block/name "误差",
+  :block/created-at 1668079038669,
+  :block/updated-at 1668079038669}
+ {:block/name "超参数",
+  :block/created-at 1668079038547,
+  :block/updated-at 1668079038547}
+ {:block/name "过拟合",
+  :block/created-at 1668079038782,
+  :block/updated-at 1668079038782}
+ {:block/name "阅读思考问题",
+  :block/created-at 1668079049124,
+  :block/updated-at 1668079049124}
+ {:block/name "附件",
+  :block/created-at 1668079037937,
+  :block/updated-at 1668079037937}
+ {:block/name "附件/pasted image 20221027164310.png",
+  :block/created-at 1668079037920,
+  :block/updated-at 1668079037920}
+ {:block/name "隐藏层",
+  :block/created-at 1668079038580,
+  :block/updated-at 1668079038580}
+ {:block/name "集合论符号",
+  :block/created-at 1668079044986,
+  :block/updated-at 1668079044986}
+ {:block/name "食物热量与冷饮关系",
+  :block/created-at 1668079047098,
+  :block/updated-at 1668079047098}
+ {:block/name "验证数据集",
+  :block/created-at 1668079038080, 
+  :block/updated-at 1668079038080}]

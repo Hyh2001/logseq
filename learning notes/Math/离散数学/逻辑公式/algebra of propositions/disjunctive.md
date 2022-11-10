@@ -1,0 +1,5 @@
+## 析取式（disjunctive)
+命题公式积（AND）的和（OR）的形式
+($A$ AND $B$ AND $C$) OR ($A$ AND $B$ AND $\bar{C}$)
+### 析取范式（disjunctive normal form,DNF）
+每个AND项都有各个变量或者变量的非依次构成

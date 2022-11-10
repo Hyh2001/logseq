@@ -1,0 +1,1 @@
+The rigid body that moves in three-dimensional space.

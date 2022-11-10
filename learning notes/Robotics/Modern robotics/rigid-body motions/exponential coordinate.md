@@ -1,0 +1,1 @@
+This idea generated from using screw motion to represent all the motions. We use six parameters to describe the direction of three screw axis and a scalar to indicate how far the screw motion must be followed to achieve the desired configuration. 
