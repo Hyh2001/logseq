@@ -1,11 +1,12 @@
-It is defined as the smallest number ($n$) of *real-valued*(this word means that the parameter should be continuous) coordinates needed to represent its [[configuration]]. We can calculate [[degree of freedom]]s for various [[mechanism]]. How to determine the degree of freedoms? We can use the method below. 
+It is defined as the smallest number ($n$) of *real-valued*(this word means that the parameter should be continuous) coordinates needed to represent its [[configuration]]. We can calculate [[degree of freedom]]s for various [[mechanism]]. How to determine the degree of freedoms? We can use the method below.
+
 # Calculation of [[degree of freedom]] of a rigid body 
 Degree of freedom of a rigid body: 
 *degrees of freedom = (sum of freedoms of the points) - (number of independent constraints)*
 By expressing it in terms of variables and independent equations:
 *degrees of freedom = (number of variables) - (number of independent equations)*
 ## For [[spatial rigid body]]
-*six* degrees of freedom 
+*six* degrees of freedom
 ## For [[planar rigid body]]
 *three* degrees of freedom
 # Calculation of degree of freedom of a [[Robot]] 
@@ -19,6 +20,5 @@ This formula is used to calculate the [[degree of freedom]] of a [[mechanism]], 
 Case by case studies:
 1.For a robot grasper, we will treat it as having a [[Revolute joint]] with the ground 
 2.==
-
 # reference 
 “degrees of freedom” ([Lynch 和 Park, 2017, p. 21](zotero://select/library/items/CK6BYIEW)) ([pdf](zotero://open-pdf/library/items/97TQKNC2?page=21&annotation=HAZ5M9TW)) note link: "zotero://note/u/WLDHXQAU/"

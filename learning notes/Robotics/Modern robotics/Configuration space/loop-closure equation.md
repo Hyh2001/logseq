@@ -1,4 +1,5 @@
-They are a group of equations that can implicitly define a closed-chain mechanism. 
+They are a group of equations that can implicitly define a closed-chain mechanism.
+
 # for a four bar linkage
 ![[Pasted image 20221027164310.png]]
 We can three equations: 
@@ -16,15 +17,3 @@ $\begin{bmatrix} \frac{\partial g_1}{\partial \theta_1}(\theta)(\dot{\theta_1}) 
 let $\dot{\theta_n}$ out  
 $\begin{bmatrix} \frac{\partial g_1}{\partial \theta_1}(\theta) + ... + \frac{\partial g_1}{\partial \theta_n}(\theta)\\ . \\. \\. \\ \frac{\partial g_k}{\partial \theta_1}(\theta) + ... + \frac{\partial g_k}{\partial \theta_n}(\theta) \end{bmatrix} \begin{bmatrix}\dot{\theta_1} \\. \\. \\. \\ \dot{\theta_n} \end{bmatrix} = 0$ in short, it is $\frac{\partial g}{\partial \theta}(\theta)\dot{\theta} = 0$, let $A(\theta) = \frac{\partial g}{\partial \theta}(\theta)$, we can have $A(\theta)\dot{\theta} = 0$, $A(\theta)$ which is the velocity constraint is also called [[Pfaffian constraint]].
 Sometimes, for some [[Pfaffian constraint]]s, they do not [[Integrable]] which means that $g(\theta)$ does not exist. These constraints are called [[nonholonomic constraint]]. (They usually occur in rolling without slipping and conservation of momentum)
-
-
-
-
-
-
-
-
-
-
-
-

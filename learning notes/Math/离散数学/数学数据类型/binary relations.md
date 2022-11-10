@@ -20,6 +20,6 @@ The image of a set $Y$ under a relation $R$ written $R(Y)$, is the set of elemen
 ### inverse relations and image
 #### inverse
 $R^{-1}$ of a relation $R: A \to B$ is the relation from $B$ to $A$
-$b$ $R^{-1}$ $a$  IFF $a$ $R$ $b$ 
+$b$ $R^{-1}$ $a$  IFF $a$ $R$ $b$
 #### inverse image 
 inverse image of a set $X \subseteq B$ under the relation $R$ is defined to be $R$
