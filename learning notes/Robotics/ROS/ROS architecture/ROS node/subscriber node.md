@@ -1,4 +1,6 @@
-[[subscriber node]] is the node that will subscribe to the topic published by a [[publisher node]]. There are two ways which based on [[Rospy]]  and [[Roscpp]] APIs for building a subsciber node.
+- #ros
+  background-color:: blue
+  [[subscriber node]] is the node that will subscribe to the topic published by a [[publisher node]]. There are two ways which based on [[Rospy]]  and [[Roscpp]] APIs for building a subsciber node.
 # [[Roscpp]] 
 ```cpp
 #include "ros/ros.h"
@@ -14,7 +16,7 @@ int main(int argc, char **argv)
 	1. “chatter” is the topic that the subscriber listen to 
 	2. Messages will be passed to the callback function “chatterCallback”. 
 	3. 1000 is the length of the buffer queue. 
-	
+
 	*/
 	ros::spin();
 	/* 
@@ -26,6 +28,6 @@ int main(int argc, char **argv)
 void chatterCallback(const std_msgs::String::ConstPtr& msg)
 {
 	ROS_INFO(“I heard: [%s]”, msg -> data.c_str());
-	
+
 }
 ```
