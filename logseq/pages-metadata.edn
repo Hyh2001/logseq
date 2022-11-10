@@ -28,9 +28,6 @@
  {:block/name "[deep learning]",
   :block/created-at 1668079038006,
   :block/updated-at 1668079038006}
- {:block/name "[hinge point]",
-  :block/created-at 1668079045367,
-  :block/updated-at 1668079045367}
  {:block/name "[if and only if]",
   :block/created-at 1668079044774,
   :block/updated-at 1668079044774}
@@ -432,7 +429,7 @@
   :block/updated-at 1668079050031}
  {:block/name "cylindrical joint",
   :block/created-at 1668079045400,
-  :block/updated-at 1668079045400}
+  :block/updated-at 1668084656857}
  {:block/name "date",
   :block/created-at 1668079675959,
   :block/updated-at 1668079675959}
@@ -704,6 +701,9 @@
  {:block/name "helical joint",
   :block/created-at 1668079045399,
   :block/updated-at 1668083661644}
+ {:block/name "hinge point",
+  :block/created-at 1668084694136,
+  :block/updated-at 1668084694136}
  {:block/name "holonomic constraint",
   :block/created-at 1668079037926,
   :block/updated-at 1668079037926}
@@ -1359,9 +1359,6 @@
  {:block/name "passive fire protection",
   :block/created-at 1668079048617,
   :block/updated-at 1668079048617}
- {:block/name "pasted image 20210919203508.png",
-  :block/created-at 1668079046831,
-  :block/updated-at 1668079046831}
  {:block/name "pasted image 20211001174144.png",
   :block/created-at 1668079039188,
   :block/updated-at 1668079039188}
@@ -1383,21 +1380,6 @@
  {:block/name "pasted image 20211001210827.png",
   :block/created-at 1668079039159,
   :block/updated-at 1668079039159}
- {:block/name "pasted image 20211008102152.png",
-  :block/created-at 1668079046943,
-  :block/updated-at 1668079046943}
- {:block/name "pasted image 20211008102724.png",
-  :block/created-at 1668079046939,
-  :block/updated-at 1668079046939}
- {:block/name "pasted image 20211008103405.png",
-  :block/created-at 1668079046942,
-  :block/updated-at 1668079046942}
- {:block/name "pasted image 20211008110623.png",
-  :block/created-at 1668079046926,
-  :block/updated-at 1668079046926}
- {:block/name "pasted image 20211008110648.png",
-  :block/created-at 1668079046925,
-  :block/updated-at 1668079046925}
  {:block/name "pasted image 20211012115816.png",
   :block/created-at 1668079043616,
   :block/updated-at 1668079043616}
@@ -1419,63 +1401,18 @@
  {:block/name "pasted image 20220707202814.png",
   :block/created-at 1668079041471,
   :block/updated-at 1668079041471}
- {:block/name "pasted image 20220723123009.png",
-  :block/created-at 1668079050456,
-  :block/updated-at 1668079050456}
- {:block/name "pasted image 20220723123031.png",
-  :block/created-at 1668079050455,
-  :block/updated-at 1668079050455}
- {:block/name "pasted image 20220723123104.png",
-  :block/created-at 1668079050423,
-  :block/updated-at 1668079050423}
  {:block/name "pasted image 20220802113825.png",
   :block/created-at 1668079044491,
   :block/updated-at 1668079044491}
  {:block/name "pasted image 20220912113957.png",
   :block/created-at 1668079040458,
   :block/updated-at 1668079040458}
- {:block/name "pasted image 20220918203050.png",
-  :block/created-at 1668079049263,
-  :block/updated-at 1668079049263}
- {:block/name "pasted image 20220923111019.png",
-  :block/created-at 1668079048570,
-  :block/updated-at 1668079048570}
- {:block/name "pasted image 20220923111210.png",
-  :block/created-at 1668079048568,
-  :block/updated-at 1668079048568}
- {:block/name "pasted image 20220926205757.png",
-  :block/created-at 1668079046150,
-  :block/updated-at 1668079046150}
- {:block/name "pasted image 20220926215850.png",
-  :block/created-at 1668079046075,
-  :block/updated-at 1668079046075}
- {:block/name "pasted image 20221001140341.png",
-  :block/created-at 1668079046461,
-  :block/updated-at 1668079046461}
- {:block/name "pasted image 20221001140404.png",
-  :block/created-at 1668079046460,
-  :block/updated-at 1668079046460}
  {:block/name "pasted image 20221007174919.png",
   :block/created-at 1668079042989,
   :block/updated-at 1668079042989}
- {:block/name "pasted image 20221023120726.png",
-  :block/created-at 1668079045366,
-  :block/updated-at 1668079045366}
- {:block/name "pasted image 20221023120738.png",
-  :block/created-at 1668079045354,
-  :block/updated-at 1668079045354}
  {:block/name "pasted image 20221023120919.png",
   :block/created-at 1668079045338,
   :block/updated-at 1668079045338}
- {:block/name "pasted image 20221023121219.png",
-  :block/created-at 1668079045378,
-  :block/updated-at 1668079045378}
- {:block/name "pasted image 20221023121319.png",
-  :block/created-at 1668079045428,
-  :block/updated-at 1668079045428}
- {:block/name "pasted image 20221023121452.png",
-  :block/created-at 1668079045415,
-  :block/updated-at 1668079045415}
  {:block/name "pasted image 20221023122027.png",
   :block/created-at 1668079045136,
   :block/updated-at 1668079045136}
@@ -1485,9 +1422,6 @@
  {:block/name "pasted image 20221027164310.png",
   :block/created-at 1668079045224,
   :block/updated-at 1668079045224}
- {:block/name "pasted image 20221102163845.png",
-  :block/created-at 1668079049067,
-  :block/updated-at 1668079049067}
  {:block/name "performance-based design",
   :block/created-at 1668079048664,
   :block/updated-at 1668079048664}
@@ -1674,7 +1608,7 @@
   :block/updated-at 1668079041364}
  {:block/name "revolute joint",
   :block/created-at 1668079045397,
-  :block/updated-at 1668079045397}
+  :block/updated-at 1668084726975}
  {:block/name "riemann sum",
   :block/created-at 1668079041663,
   :block/updated-at 1668079041663}
@@ -1702,6 +1636,9 @@
  {:block/name "robot_mindmap",
   :block/created-at 1668079045290,
   :block/updated-at 1668079045290}
+ {:block/name "robotics",
+  :block/created-at 1668084703158,
+  :block/updated-at 1668084703158}
  {:block/name "rolle's theorem",
   :block/created-at 1668079041135,
   :block/updated-at 1668079041135}
