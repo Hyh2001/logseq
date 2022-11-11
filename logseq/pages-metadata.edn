@@ -4,6 +4,9 @@
  {:block/name "3d scatter plot",
   :block/created-at 1668079049447,
   :block/updated-at 1668079049447}
+ {:block/name "@modern robotics: mechanics, planning, and control",
+  :block/created-at 1668152812537,
+  :block/updated-at 1668152812537}
  {:block/name "@save",
   :block/created-at 1668079038417,
   :block/updated-at 1668079038417}
@@ -40,9 +43,6 @@
  {:block/name "[mutually exclusive event]",
   :block/created-at 1668079043165,
   :block/updated-at 1668079043165}
- {:block/name "[outlining]",
-  :block/created-at 1668095436038,
-  :block/updated-at 1668095436038}
  {:block/name "[range]",
   :block/created-at 1668079041194,
   :block/updated-at 1668079041194}
@@ -2180,7 +2180,7 @@
   :block/updated-at 1668079038525}
  {:block/name "大纲",
   :block/created-at 1668079049479,
-  :block/updated-at 1668093939019}
+  :block/updated-at 1668152813548}
  {:block/name "大肠",
   :block/created-at 1668079049245,
   :block/updated-at 1668079049245}
