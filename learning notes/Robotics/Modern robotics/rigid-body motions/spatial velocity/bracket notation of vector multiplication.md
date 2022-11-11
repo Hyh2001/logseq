@@ -1,2 +1,0 @@
-We let $\vec{x} \times \vec{y} = [x]y$ where $[x]$ is a 3 by 3 matrix. 
-If $x = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix}$, then $[x] = \begin{bmatrix} 0 & -x_3  & x_2 \\ x_3 & 0 & -x_1 \\ -x_2 & x_1 & 0 \end{bmatrix}$ where $[x]$ is called [[skew-symmetric matrix]]. 

@@ -1,1 +1,0 @@
-It has the property that: $[x] = -[x]^T$. The set of all 3 by 3 real skew-symmetric matrices is called $so(3)$([[Lie algebra]]). 

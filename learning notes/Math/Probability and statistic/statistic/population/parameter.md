@@ -1,1 +1,0 @@
-Any characteristic of a population that is measurable.

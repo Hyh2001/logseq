@@ -1,1 +1,0 @@
-When $\alpha$ is an integer, the distribution function of a [[Gamma distribution]]  can be expressed as a sum of certain [[Poisson distribution]]. the rela

@@ -1,1 +1,0 @@
-It is a frame attached to a rigid body used to describe the con

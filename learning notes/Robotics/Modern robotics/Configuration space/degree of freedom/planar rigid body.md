@@ -1,1 +1,0 @@
-The rigid body that moves in a two-dimensional plane. 

@@ -1,1 +1,0 @@
-It is a collection of particles such that the distance between any two particles remains fixed, regardless of any motions of the body or forces exerted on the body.
