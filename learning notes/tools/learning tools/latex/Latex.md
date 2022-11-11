@@ -1,4 +1,4 @@
-- #latex
+- #
 # defintion 
 a tool used to create professional-looking documents.
 - ## advantages

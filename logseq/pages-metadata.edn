@@ -117,7 +117,7 @@
   :block/updated-at 1668079042849}
  {:block/name "aliases",
   :block/created-at 1668079049308,
-  :block/updated-at 1668095284863}
+  :block/updated-at 1668094315212}
  {:block/name "anaconda",
   :block/created-at 1668079039052,
   :block/updated-at 1668079039052}
@@ -892,7 +892,7 @@
   :block/updated-at 1668079623294}
  {:block/name "latex",
   :block/created-at 1668079049335,
-  :block/updated-at 1668094850833}
+  :block/updated-at 1668094848182}
  {:block/name "latex calculus",
   :block/created-at 1668079049352,
   :block/updated-at 1668079049352}
